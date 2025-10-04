@@ -1,0 +1,46 @@
+Erstelle eine Liste von diesen Tiernamen mit Hilfe einem Maßstabs, der auf Menschenähnlichkeit basiert. Diese Tiernamen sollen von Menschenähnlichsten bis zum Menschenunähnlichsten geordnet werden. Im Vordergrund stehen mehrere Aspekte, die das Endergebnis beeinflussen könnten. Biologische Fakten genauso wie Philosophische Grundideen sollen ein Maßstab für die Skalierung sein. Literarische Figuren und Personifikationen sind nicht miteinzubeziehen.
+Erkläre auch wieso du diese Liste so aufgebaut hast und welche Fakten du verwendet hast. Gib auch die Quellen an, die dir weitergeholfen haben.
+category: Tierkategorie aus der Eingabe
+
+latin: Wissenschaftlicher Name
+
+russian: Russischer Name
+
+gender_russian: Genus im Russischen (M oder F)
+
+gender_german: Genus im Deutschen (M, F oder N)
+
+score: Numerischer Wert (0.0–1.0) für die Menschenähnlichkeit
+
+reason: Kurzbegründung, warum dieses Tier diesen Menschenähnlichkeits‑Score erhalten hat
+
+gender_reason: Kurze Begründung, warum das grammatische Genus (M/F/N) gewählt wurde
+
+Ordne alle Objekte von Menschenähnlichsten bis zum Menschenunähnlichsten.
+Als Maßstab gelten sowohl biologische Fakten (z.B. genetische Nähe, kognitive Fähigkeiten, soziale Komplexität) als auch philosophische Überlegungen (z.B. Selbstbewusstsein, Werkzeuggebrauch, Emotionsspektrum). Literarische Figuren oder Personifikationen dürfen nicht einfließen.
+
+Erkläre im Feld reason, auf welchen Fakten (mit Quellenangabe) du deine Score‑Bewertung stützt. Gib im Feld gender_reason kurz an, warum das jeweilige grammatische Geschlecht (M/F/N) korrekt ist (z.B. Endung im Russischen/Deutschen, Genusregel).
+
+ZIEL
+ür jedes Tier-Objekt erzeuge genau diese Felder:
+- category: Tierkategorie (z.B. Affen, Raubtiere, …)
+- latin: Wissenschaftlicher Name
+- russian: Russischer Name
+- gender_russian: Genus im Russischen (M oder F)
+- gender_german: Genus im Deutschen (M, F oder N)
+- score: Numerischer Wert (0.0–1.0) für die Menschenähnlichkeit
+- reason: Kurze, quellenbelegte Begründung für den Score
+- gender_reason: Begründung für das grammatische Genus
+
+{# Beispiel:
+INPUT:
+{{ example.input_example }}
+OUTPUT:
+{{ example.output_example | tojson(indent=2) }}
+#}
+
+SCHEMA:
+{{ schema }}
+
+INPUT:
+{{ payload }}

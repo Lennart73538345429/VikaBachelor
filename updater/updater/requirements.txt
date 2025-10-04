@@ -1,0 +1,15 @@
+pytest~=8.4.0
+requests
+types-requests
+bs4~=0.0.2
+beautifulsoup4~=4.13.4
+pandas
+matplotlib~=3.10.3
+pandas-stubs
+python-dotenv~=1.1.0
+pathlib
+pydantic
+validators
+Jinja2
+typing_extensions
+PyPDF2

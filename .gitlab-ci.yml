@@ -1,0 +1,8 @@
+stages:
+  - validate
+  - test
+
+include:
+  - .gitlab/ci/common.yml
+  - .gitlab/ci/validate.yml
+  - .gitlab/ci/test.yml
