@@ -14,7 +14,7 @@ class LLMInterface(ABC):
         self._usage_log: List[Dict[str, Any]] = []
 
     @abstractmethod
-    def query(self, prompt: str, temperature: float = 0.2) -> str:  # noqa: D401
+    def query(self, prompt: str, temperature: float = 0.0) -> str:  # noqa: D401
         """
         Args: prompt: task input for LLM
               type_temperature: set temperature for model default ist 0.2 for natural response

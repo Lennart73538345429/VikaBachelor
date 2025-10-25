@@ -104,14 +104,15 @@ class GeminiLlmInstance(LLMInterface, ABC):
             "contents": [{"parts": [{"text": prompt}]}],
             "generationConfig": {
                 "temperature": type_temperature,
-                "maxOutputTokens": 5000,
+                "maxOutputTokens": 100000,
+                "response_mime_type": "application/json"
             },
         }
         # response state
         valid = False
         # implmentation to fit other models if gemini is decided later as llm use genai
         response = requests.post(
-            self.GEMINI_API_URL, headers=headers, params=params, json=data, timeout=30
+            self.GEMINI_API_URL, headers=headers, params=params, json=data, timeout=120
         )
         # 200 is statuscode from google documentation , Gemini things it's fine :)
         if response.status_code == 200:

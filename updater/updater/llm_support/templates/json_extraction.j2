@@ -1,46 +1,28 @@
-Erstelle eine Liste von diesen Tiernamen mit Hilfe einem Maßstabs, der auf Menschenähnlichkeit basiert. Diese Tiernamen sollen von Menschenähnlichsten bis zum Menschenunähnlichsten geordnet werden. Im Vordergrund stehen mehrere Aspekte, die das Endergebnis beeinflussen könnten. Biologische Fakten genauso wie Philosophische Grundideen sollen ein Maßstab für die Skalierung sein. Literarische Figuren und Personifikationen sind nicht miteinzubeziehen.
-Erkläre auch wieso du diese Liste so aufgebaut hast und welche Fakten du verwendet hast. Gib auch die Quellen an, die dir weitergeholfen haben.
-category: Tierkategorie aus der Eingabe
+Antworte ausschließlich mit gültigem JSON (eine Liste von Objekten). 
+Kein Fließtext, keine Erklärungen außerhalb der JSON-Felder, keine Markdown-Fences.
 
-latin: Wissenschaftlicher Name
+DU ERHÄLTST:
+- input: eine Liste von Tier-Objekten mit Feldern {id, category, latin, german, russian}.
+- schema: die Ziel-Felder.
 
-russian: Russischer Name
+AUFGABE:
+1) Erzeuge für JEDES input-Objekt GENAU EIN Ausgabeelement.
+2) Übernehme die Felder id, category, latin, german, russian EXAKT UNVERÄNDERT aus dem jeweiligen input-Objekt (Passthrough).
+3) Ergänze ausschließlich die Felder gender_russian, gender_german, score, reason, gender_reason.
+4) Füge KEINE neuen Tiere hinzu. Entferne KEINE Tiere. Ändere KEINE Werte von id/category/latin/german/russian.
+5) Vergib score ∈ [0.0, 1.0] als Menschenähnlichkeitsmaß (höher = menschenähnlicher). 
+   Grundlage: biologische Fakten (genetische Nähe, kognitive Fähigkeiten, soziale Komplexität, Werkzeuggebrauch, Emotionsspektrum, Selbstbewusstsein).
+6) Schreibe Begründungen und Quellen AUSSCHLIESSLICH im Feld "reason" in eckiger Klammer, z. B. 
+   "… [Quelle: DOI/URL]". Keine weiteren Texte außerhalb der JSON-Felder.
+7) "gender_reason" erklärt knapp, warum das grammatische Genus korrekt ist (Deutsch/Russisch).
+8) Nachdem du alle Elemente erzeugt hast, SORTIERE die JSON-Liste NUR nach "score" (absteigend).
+9) Die Länge der Ausgabeliste MUSS exakt der Länge von input entsprechen. 
+   Die Menge der ids MUSS identisch sein (keine Duplikate, keine Lücken).
 
-gender_russian: Genus im Russischen (M oder F)
+GIB ALS ANTWORT NUR DIE SORTIERTE JSON-LISTE ZURÜCK.
 
-gender_german: Genus im Deutschen (M, F oder N)
-
-score: Numerischer Wert (0.0–1.0) für die Menschenähnlichkeit
-
-reason: Kurzbegründung, warum dieses Tier diesen Menschenähnlichkeits‑Score erhalten hat
-
-gender_reason: Kurze Begründung, warum das grammatische Genus (M/F/N) gewählt wurde
-
-Ordne alle Objekte von Menschenähnlichsten bis zum Menschenunähnlichsten.
-Als Maßstab gelten sowohl biologische Fakten (z.B. genetische Nähe, kognitive Fähigkeiten, soziale Komplexität) als auch philosophische Überlegungen (z.B. Selbstbewusstsein, Werkzeuggebrauch, Emotionsspektrum). Literarische Figuren oder Personifikationen dürfen nicht einfließen.
-
-Erkläre im Feld reason, auf welchen Fakten (mit Quellenangabe) du deine Score‑Bewertung stützt. Gib im Feld gender_reason kurz an, warum das jeweilige grammatische Geschlecht (M/F/N) korrekt ist (z.B. Endung im Russischen/Deutschen, Genusregel).
-
-ZIEL
-ür jedes Tier-Objekt erzeuge genau diese Felder:
-- category: Tierkategorie (z.B. Affen, Raubtiere, …)
-- latin: Wissenschaftlicher Name
-- russian: Russischer Name
-- gender_russian: Genus im Russischen (M oder F)
-- gender_german: Genus im Deutschen (M, F oder N)
-- score: Numerischer Wert (0.0–1.0) für die Menschenähnlichkeit
-- reason: Kurze, quellenbelegte Begründung für den Score
-- gender_reason: Begründung für das grammatische Genus
-
-{# Beispiel:
-INPUT:
-{{ example.input_example }}
-OUTPUT:
-{{ example.output_example | tojson(indent=2) }}
-#}
-
-SCHEMA:
+schema:
 {{ schema }}
 
-INPUT:
+input:
 {{ payload }}
