@@ -195,26 +195,44 @@ def call_model_batch(batch_payload: List[Dict[str, Any]]) -> List[Dict[str, Any]
 
 
 def main():
-    DEFAULT_CSV = Path("Neue DatenbankCSV1.csv")
+    # Standard-Dateien: beide Tabellen
+    DEFAULT_CSV_1 = Path("Neue DatenbankCSV.csv")
+    DEFAULT_CSV_2 = Path("Neue DatenbankCSV1.csv")
 
     parser = argparse.ArgumentParser(
         description="CSV einlesen, in Batches an LLM senden, Ergebnisse zusammenführen"
     )
-    parser.add_argument("--csv", "-c", type=Path, default=DEFAULT_CSV,
-                        help=f'Pfad zur Eingabe-CSV (Standard: "{DEFAULT_CSV}")')
+    parser.add_argument("--csv", "-c", type=Path, default=DEFAULT_CSV_1,
+                        help=f'Pfad zur ersten Eingabe-CSV (Standard: "{DEFAULT_CSV_1}")')
+    parser.add_argument("--csv2", "-c2", type=Path, default=DEFAULT_CSV_2,
+                        help=f'Pfad zur zweiten Eingabe-CSV (Standard: "{DEFAULT_CSV_2}")')
     parser.add_argument("--batch-size", "-b", type=int, default=20,
                         help="Anzahl der Einträge pro LLM-Call (Standard: 20)")
+
+    parser.add_argument("--max-retries", "-r", type=int, default=1,
+                        help="Anzahl der Retry-Runden bei fehlenden Einträgen (Standard: 1)")
+    parser.add_argument("--print-json", action="store_true",
+                        help="Gesamtergebnis zusätzlich auf STDOUT ausgeben")
     args = parser.parse_args()
 
+    # check files 
     if not args.csv.exists():
         print(f"Fehler: CSV nicht gefunden: {args.csv.resolve()}", file=sys.stderr)
         sys.exit(1)
+    if not args.csv2.exists():
+        print(f"Fehler: CSV nicht gefunden: {args.csv2.resolve()}", file=sys.stderr)
+        sys.exit(1)
 
+    # join csv files
     try:
-        payload = extract_rows(args.csv)
-        print(f"Eingabe-CSV mit {len(payload)} Zeilen eingelesen.", file=sys.stderr)
+        payload1 = extract_rows(args.csv)
+        print(f"Erste CSV mit {len(payload1)} Zeilen eingelesen.", file=sys.stderr)
+        payload2 = extract_rows(args.csv2)
+        print(f"Zweite CSV mit {len(payload2)} Zeilen eingelesen.", file=sys.stderr)
+        payload = payload1 + payload2
+        print(f"Gesamt {len(payload)} Zeilen ", file=sys.stderr)
     except Exception as e:
-        print(f"Fehler beim Lesen der CSV: {e}", file=sys.stderr)
+        print(f"Fehler : {e}", file=sys.stderr)
         sys.exit(1)
         
     all_results: List[Dict[str, Any]] = []
@@ -232,7 +250,7 @@ def main():
     retry_round = 0
     while missing and retry_round < args.max_retries:
         retry_round += 1
-        print(f"Retry {retry_round}: {len(missing)} – erneut anfragen...",
+        print(f"Retry {retry_round}: {len(missing)} – erneut",
               file=sys.stderr)
 
         new_results: List[Dict[str, Any]] = []
@@ -251,7 +269,7 @@ def main():
         print(f"Nach Retry {retry_round}: gesamt {len(all_results)} / erwartet {expected}",
               file=sys.stderr)
     # write to file
-    out_path = Path("gemini_output_secondpart.json")
+    out_path = Path("gemini_output.json")
     try:
         with out_path.open("w", encoding="utf-8") as f:
             json.dump(all_results, f, ensure_ascii=False, indent=2)

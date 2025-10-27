@@ -28,6 +28,11 @@ chmod +x .githooks/*
   - `ruff check .`
 - Formatter:
   - `ruff format .`
+  
+##Ausführen
+  python3 -m updater.updater   --csv  "updater/updater/Neue DatenbankCSV.csv"   --csv2 "updater/updater/Neue DatenbankCSV1.csv"
+
+-208 Zeilen erwartet
 
 ## Hilfreiche Links
 
