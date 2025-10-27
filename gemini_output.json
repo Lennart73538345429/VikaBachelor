@@ -8,7 +8,7 @@
     "gender_german": "M",
     "score": 0.85,
     "reason": "Schimpansen zeigen hohe Intelligenz, Werkzeuggebrauch, komplexe soziale Strukturen, Empathie und Selbsterkennung. [Quelle: https://www.worldwildlife.org/species/chimpanzee]",
-    "gender_reason": "Genusregel: Maskulin, da 'Schimpanse' im Deutschen maskulin ist."
+    "gender_reason": "Genusregel: Maskulin, da 'Schimpanse' im Deutschen maskulin ist und 'шимпанзе' meistens als Maskulin behandelt wird."
   },
   {
     "category": "",
@@ -18,8 +18,8 @@
     "gender_russian": "F",
     "gender_german": "M",
     "score": 0.8,
-    "reason": "Gorillas zeigen Intelligenz, Werkzeuggebrauch (in Gefangenschaft), komplexe soziale Strukturen und ein breites Spektrum an Emotionen. [Quelle: https://www.gorillafund.org/conservation/about-gorillas/]",
-    "gender_reason": "Genusregel: Maskulin, da 'Gorilla' im Deutschen maskulin ist."
+    "reason": "Gorillas zeigen Intelligenz, Werkzeuggebrauch (in begrenztem Umfang), komplexe soziale Strukturen und ein breites Spektrum an Emotionen. [Quelle: https://www.awf.org/wildlife-conservation/gorilla]",
+    "gender_reason": "Genusregel: Maskulin, da 'Gorilla' im Deutschen maskulin ist und 'горилла' im Russischen feminin ist."
   },
   {
     "category": "",
@@ -29,8 +29,8 @@
     "gender_russian": "M",
     "gender_german": "M",
     "score": 0.75,
-    "reason": "Orang-Utans zeigen Intelligenz, Werkzeuggebrauch, lernen durch Beobachtung und haben eine lange Kindheit für soziale Lernprozesse. [Quelle: https://www.worldwildlife.org/species/orangutan]",
-    "gender_reason": "Genusregel: Maskulin, da 'Orang-Utan' im Deutschen maskulin ist."
+    "reason": "Orang-Utans zeigen Intelligenz, Werkzeuggebrauch, lernen durch Beobachtung und haben komplexe soziale Strukturen. [Quelle: https://www.orangutan.org/about-orangutans/]",
+    "gender_reason": "Genusregel: Maskulin, da 'Orang-Utan' im Deutschen maskulin ist und 'орангутан' im Russischen maskulin ist."
   },
   {
     "category": "",
@@ -40,19 +40,8 @@
     "gender_russian": "M",
     "gender_german": "M",
     "score": 0.65,
-    "reason": "Paviane leben in komplexen sozialen Strukturen, zeigen Werkzeuggebrauch und haben ein breites Spektrum an Verhaltensweisen. [Quelle: https://www.britannica.com/animal/hamadryas-baboon]",
-    "gender_reason": "Genusregel: Maskulin, da 'Pavian' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Mandrillus leucophaeus",
-    "german": "Drill",
-    "russian": "Дрил",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.6,
-    "reason": "Drills sind soziale Tiere mit komplexen Verhaltensweisen und kognitiven Fähigkeiten. [Quelle: https://www.edgeofexistence.org/species/drill/]",
-    "gender_reason": "Genusregel: Maskulin, da 'Drill' im Deutschen maskulin ist."
+    "reason": "Paviane zeigen komplexe soziale Strukturen, nutzen Werkzeuge und haben ein breites Spektrum an Verhaltensweisen. [Quelle: https://www.britannica.com/animal/baboon]",
+    "gender_reason": "Genusregel: Maskulin, da 'Pavian' im Deutschen maskulin ist und 'гамадрил' im Russischen maskulin ist."
   },
   {
     "category": "",
@@ -61,9 +50,9 @@
     "russian": "Хайнаньский гиббон",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.55,
-    "reason": "Siamangs zeigen komplexe soziale Interaktionen und nutzen Rufe zur Kommunikation über weite Distanzen. [Quelle: https://animaldiversity.org/accounts/Symphalangus_syndactylus/]",
-    "gender_reason": "Genusregel: Maskulin, da 'Siamang' im Deutschen maskulin ist."
+    "score": 0.6,
+    "reason": "Siamangs zeigen komplexe soziale Interaktionen und nutzen Rufe zur Kommunikation. [Quelle: https://www.lpzoo.org/animal/siamang]",
+    "gender_reason": "Genusregel: Maskulin, da 'Siamang' im Deutschen maskulin ist und 'гиббон' im Russischen maskulin ist."
   },
   {
     "category": "",
@@ -72,9 +61,9 @@
     "russian": "Серебристый гиббон",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.55,
-    "reason": "Gibbons zeigen komplexe soziale Interaktionen und nutzen Rufe zur Kommunikation über weite Distanzen. [Quelle: https://en.wikipedia.org/wiki/Silvery_gibbon]",
-    "gender_reason": "Genusregel: Maskulin, da 'Gibbon' im Deutschen maskulin ist."
+    "score": 0.6,
+    "reason": "Gibbons zeigen komplexe soziale Interaktionen und nutzen Rufe zur Kommunikation. [Quelle: https://www.chesterzoo.org/animals/silvery-gibbon/]",
+    "gender_reason": "Genusregel: Maskulin, da 'Gibbon' im Deutschen maskulin ist und 'гиббон' im Russischen maskulin ist."
   },
   {
     "category": "",
@@ -83,20 +72,31 @@
     "russian": "Красноголовый мангобей",
     "gender_russian": "M",
     "gender_german": "F",
-    "score": 0.5,
-    "reason": "Mangaben sind soziale Affen, die in Gruppen leben und ein breites Spektrum an Verhaltensweisen zeigen. [Quelle: https://en.wikipedia.org/wiki/Red-capped_mangabey]",
-    "gender_reason": "Genusregel: Feminin, da 'Mangabe' im Deutschen feminin ist."
+    "score": 0.55,
+    "reason": "Mangaben zeigen soziale Strukturen und nutzen Werkzeuge in begrenztem Umfang. [Quelle: https://en.wikipedia.org/wiki/Red-capped_mangabey]",
+    "gender_reason": "Genusregel: Feminin, da 'Mangabe' im Deutschen feminin ist und 'мангобей' im Russischen maskulin ist."
   },
   {
     "category": "",
     "latin": "Ateles fusciceps rufiventris",
     "german": "Braunkopf-Klammeraffe",
     "russian": "Буроголовая коата",
+    "gender_russian": "F",
+    "gender_german": "M",
+    "score": 0.5,
+    "reason": "Klammeraffen zeigen soziale Strukturen und nutzen Werkzeuge in begrenztem Umfang. [Quelle: https://www.zoo-hannover.de/entdecken/tierlexikon/braunkopf-klammeraffe/]",
+    "gender_reason": "Genusregel: Maskulin, da 'Affe' im Deutschen maskulin ist und 'коата' im Russischen feminin ist."
+  },
+  {
+    "category": "",
+    "latin": "Mandrillus leucophaeus",
+    "german": "Drill",
+    "russian": "Дрил",
     "gender_russian": "M",
     "gender_german": "M",
     "score": 0.5,
-    "reason": "Klammeraffen sind soziale Tiere mit fortgeschrittenen kognitiven Fähigkeiten. [Quelle: https://animaldiversity.org/accounts/Ateles_fusciceps/]",
-    "gender_reason": "Genusregel: Maskulin, da 'Affe' im Deutschen maskulin ist."
+    "reason": "Drills zeigen soziale Strukturen und nutzen Werkzeuge in begrenztem Umfang. [Quelle: https://www.iucnredlist.org/species/12753/17954001]",
+    "gender_reason": "Genusregel: Maskulin, da 'Drill' im Deutschen maskulin ist und 'дрил' im Russischen maskulin ist."
   },
   {
     "category": "",
@@ -106,8 +106,8 @@
     "gender_russian": "F",
     "gender_german": "F",
     "score": 0.45,
-    "reason": "Meerkatzen sind soziale Tiere, die in Gruppen leben und ein breites Spektrum an Verhaltensweisen zeigen. [Quelle: https://en.wikipedia.org/wiki/Red-tailed_monkey]",
-    "gender_reason": "Genusregel: Feminin, da 'Meerkatze' im Deutschen feminin ist."
+    "reason": "Meerkatzen zeigen soziale Strukturen und nutzen Werkzeuge in begrenztem Umfang. [Quelle: https://en.wikipedia.org/wiki/Red-tailed_monkey]",
+    "gender_reason": "Genusregel: Feminin, da 'Meerkatze' im Deutschen feminin ist und 'мартышка' im Russischen feminin ist."
   },
   {
     "category": "",
@@ -117,8 +117,8 @@
     "gender_russian": "M",
     "gender_german": "N",
     "score": 0.4,
-    "reason": "Lisztäffchen zeigen soziale Interaktionen und nutzen Rufe zur Kommunikation. [Quelle: https://nationalzoo.si.edu/animals/cotton-top-tamarin]",
-    "gender_reason": "Genusregel: Neutrum, da 'Äffchen' im Deutschen neutral ist."
+    "reason": "Lisztäffchen zeigen soziale Strukturen und nutzen Werkzeuge in begrenztem Umfang. [Quelle: https://www.zoo-leipzig.de/tiere/lexikon/lisztaeffchen/]",
+    "gender_reason": "Genusregel: Maskulin, da 'Tamarin' im Russischen maskulin ist und 'Äffchen' im Deutschen neutral ist."
   },
   {
     "category": "",
@@ -128,8 +128,8 @@
     "gender_russian": "M",
     "gender_german": "M",
     "score": 0.35,
-    "reason": "Varis sind soziale Lemuren, die in Gruppen leben und ein breites Spektrum an Verhaltensweisen zeigen. [Quelle: https://en.wikipedia.org/wiki/Red_ruffed_lemur]",
-    "gender_reason": "Genusregel: Maskulin, da 'Vari' im Deutschen maskulin ist."
+    "reason": "Lemuren zeigen soziale Strukturen und nutzen Werkzeuge in begrenztem Umfang. [Quelle: https://www.berlin.de/zoo/tierlexikon/rote-vari/]",
+    "gender_reason": "Genusregel: Maskulin, da 'Vari' im Deutschen maskulin ist und 'лемур' im Russischen maskulin ist."
   },
   {
     "category": "",
@@ -138,9 +138,31 @@
     "russian": "Кошачий лемур",
     "gender_russian": "M",
     "gender_german": "M",
+    "score": 0.35,
+    "reason": "Kattas zeigen soziale Strukturen und nutzen Werkzeuge in begrenztem Umfang. [Quelle: https://www.zoo-augsburg.de/tierlexikon/katta/]",
+    "gender_reason": "Genusregel: Maskulin, da 'Katta' im Deutschen maskulin ist und 'лемур' im Russischen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Ursus maritimus",
+    "german": "Eisbär",
+    "russian": "Белый медведь",
+    "gender_russian": "M",
+    "gender_german": "M",
     "score": 0.3,
-    "reason": "Kattas sind soziale Lemuren, die in Gruppen leben und ein breites Spektrum an Verhaltensweisen zeigen. [Quelle: https://en.wikipedia.org/wiki/Ring-tailed_lemur]",
-    "gender_reason": "Genusregel: Maskulin, da 'Katta' im Deutschen maskulin ist."
+    "reason": "Eisbären zeigen intelligentes Verhalten bei der Jagd und Problemlösung. [Quelle: https://www.worldwildlife.org/species/polar-bear]",
+    "gender_reason": "Genusregel: Maskulin, da 'Bär' im Deutschen maskulin ist und 'медведь' im Russischen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Lynx l. lynx",
+    "german": "Europäischer Luchs",
+    "russian": "Обыкновенная рысь",
+    "gender_russian": "F",
+    "gender_german": "M",
+    "score": 0.25,
+    "reason": "Luchse zeigen intelligentes Jagdverhalten und Anpassungsfähigkeit. [Quelle: https://www.nabu.de/tiere-und-pflanzen/saeugetiere/wildkatzen/luchs/index.html]",
+    "gender_reason": "Genusregel: Maskulin, da 'Luchs' im Deutschen maskulin ist und 'рысь' im Russischen feminin ist."
   },
   {
     "category": "",
@@ -150,30 +172,8 @@
     "gender_russian": "M",
     "gender_german": "N",
     "score": 0.2,
-    "reason": "Erdmännchen leben in komplexen sozialen Strukturen und zeigen kooperatives Verhalten. [Quelle: https://www.awf.org/wildlife-conservation/meerkat]",
-    "gender_reason": "Genusregel: Neutrum, da 'Erdmännchen' im Deutschen neutral ist."
-  },
-  {
-    "category": "",
-    "latin": "Ursus maritimus",
-    "german": "Eisbär",
-    "russian": "Белый медведь",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.15,
-    "reason": "Eisbären zeigen Werkzeuggebrauch (z.B. Eis zum Kratzen) und haben ein gewisses Maß an Problemlösungsfähigkeiten. [Quelle: https://polarbearsinternational.org/polar-bears-facts/]",
-    "gender_reason": "Genusregel: Maskulin, da 'Bär' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Lynx l. lynx",
-    "german": "Europäischer Luchs",
-    "russian": "Обыкновенная рысь",
-    "gender_russian": "F",
-    "gender_german": "M",
-    "score": 0.1,
-    "reason": "Der Luchs zeigt intelligentes Jagdverhalten und Anpassungsfähigkeit an seine Umwelt. [Quelle: https://www.nabu.de/tiere-und-pflanzen/saeugetiere/wildkatzen-und-luchse/luchs/index.html]",
-    "gender_reason": "Genusregel: Maskulin, da 'Luchs' im Deutschen maskulin ist."
+    "reason": "Erdmännchen zeigen ein komplexes Sozialverhalten und nutzen verschiedene Warnrufe. [Quelle: https://www.tierpark-berlin.de/de/tierlexikon/erdmaennchen]",
+    "gender_reason": "Genusregel: Neutrum, da 'das Männchen' im Deutschen neutral ist und 'сурикат' im Russischen maskulin ist."
   },
   {
     "category": "",
@@ -226,9 +226,20 @@
     "russian": "Лев",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.4,
-    "reason": "Löwen zeigen soziale Strukturen und Jagdverhalten, was auf Intelligenz hindeutet. [Quelle: https://www.worldwildlife.org/species/african-lion]",
+    "score": 0.5,
+    "reason": "Löwen zeigen soziale Strukturen und Jagdverhalten, die auf Intelligenz hindeuten. [Quelle: https://www.awf.org/wildlife-conservation/lion]",
     "gender_reason": "Genusregel: Maskulin, da 'Löwe' im Deutschen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Canis l. lupus",
+    "german": "Europäischer Wolf",
+    "russian": "Волк",
+    "gender_russian": "M",
+    "gender_german": "M",
+    "score": 0.45,
+    "reason": "Wölfe leben in komplexen sozialen Rudeln und zeigen kooperatives Verhalten. [Quelle: https://www.nationalgeographic.com/animals/mammals/facts/gray-wolf]",
+    "gender_reason": "Genusregel: Maskulin, da 'Wolf' im Deutschen maskulin ist."
   },
   {
     "category": "",
@@ -243,36 +254,14 @@
   },
   {
     "category": "",
-    "latin": "Canis l. lupus",
-    "german": "Europäischer Wolf",
-    "russian": "Волк",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.35,
-    "reason": "Wölfe leben in komplexen sozialen Strukturen und zeigen kooperatives Verhalten. [Quelle: https://www.nationalgeographic.com/animals/mammals/facts/gray-wolf]",
-    "gender_reason": "Genusregel: Maskulin, da 'Wolf' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
     "latin": "Procyon lotor",
     "german": "Nordamerikanischer Waschbär",
     "russian": "Енот-полоскун",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.3,
-    "reason": "Waschbären sind bekannt für ihre Anpassungsfähigkeit und Problemlösungsfähigkeiten. [Quelle: https://www.nwf.org/Educational-Resources/Wildlife-Guide/Mammals/Raccoon]",
+    "score": 0.35,
+    "reason": "Waschbären sind bekannt für ihre Fähigkeit, Probleme zu lösen und sich an neue Umgebungen anzupassen. [Quelle: https://www.nwf.org/Educational-Resources/Wildlife-Guide/Mammals/Raccoon]",
     "gender_reason": "Genusregel: Maskulin, da 'Waschbär' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Gulo g. gulo",
-    "german": "Vielfraß",
-    "russian": "Росомаха",
-    "gender_russian": "F",
-    "gender_german": "M",
-    "score": 0.25,
-    "reason": "Vielfraße zeigen Intelligenz und Ausdauer bei der Jagd und Nahrungssuche. [Quelle: https://www.nationalgeographic.com/animals/mammals/facts/wolverine]",
-    "gender_reason": "Genusregel: Maskulin, da 'Vielfraß' im Deutschen maskulin ist."
   },
   {
     "category": "",
@@ -281,9 +270,20 @@
     "russian": "Малая панда",
     "gender_russian": "F",
     "gender_german": "M",
-    "score": 0.2,
-    "reason": "Rote Pandas zeigen bestimmte kognitive Fähigkeiten und Anpassungen an ihre Umgebung. [Quelle: https://www.worldwildlife.org/species/red-panda]",
+    "score": 0.25,
+    "reason": "Rote Pandas zeigen bestimmte Verhaltensweisen, die auf Intelligenz hindeuten. [Quelle: https://www.worldwildlife.org/species/red-panda]",
     "gender_reason": "Genusregel: Maskulin, da 'Panda' im Deutschen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Gulo g. gulo",
+    "german": "Vielfraß",
+    "russian": "Росомаха",
+    "gender_russian": "F",
+    "gender_german": "M",
+    "score": 0.2,
+    "reason": "Vielfraße sind bekannt für ihre Stärke und Aggressivität, aber auch für ihre Fähigkeit, in rauen Umgebungen zu überleben. [Quelle: https://www.nationalgeographic.com/animals/mammals/facts/wolverine]",
+    "gender_reason": "Genusregel: Maskulin, da 'Vielfraß' im Deutschen maskulin ist."
   },
   {
     "category": "",
@@ -293,7 +293,7 @@
     "gender_russian": "M",
     "gender_german": "F",
     "score": 0.15,
-    "reason": "Mähnenrobben zeigen soziale Interaktionen und Anpassungen an das Leben im Wasser. [Quelle: https://animaldiversity.org/accounts/Otaria_byronia/]",
+    "reason": "Mähnenrobben zeigen soziale Strukturen und Anpassungen an das Leben im Wasser. [Quelle: https://animaldiversity.org/accounts/Otaria_byronia/]",
     "gender_reason": "Genusregel: Feminin, da 'Robbe' im Deutschen feminin ist."
   },
   {
@@ -304,7 +304,7 @@
     "gender_russian": "M",
     "gender_german": "M",
     "score": 0.1,
-    "reason": "Der Mähnenwolf zeigt Anpassungen an seinen Lebensraum und Jagdverhalten. [Quelle: https://animaldiversity.org/accounts/Chrysocyon_brachyurus/]",
+    "reason": "Mähnenwölfe sind an das Leben in Graslandschaften angepasst. [Quelle: https://animaldiversity.org/accounts/Chrysocyon_brachyurus/]",
     "gender_reason": "Genusregel: Maskulin, da 'Wolf' im Deutschen maskulin ist."
   },
   {
@@ -314,8 +314,8 @@
     "russian": "Манул",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.1,
-    "reason": "Der Manul ist eine Wildkatze, die an kalte Umgebungen angepasst ist. [Quelle: https://www.iucnredlist.org/species/15640/97475160]",
+    "score": 0.08,
+    "reason": "Manule sind an das Leben in kalten und trockenen Umgebungen angepasst. [Quelle: https://www.iucnredlist.org/species/15640/97476637]",
     "gender_reason": "Genusregel: Maskulin, da 'Manul' im Deutschen maskulin ist."
   },
   {
@@ -325,20 +325,9 @@
     "russian": "Песец/полярная лисица",
     "gender_russian": "F",
     "gender_german": "M",
-    "score": 0.05,
-    "reason": "Der Polarfuchs ist an das Leben in kalten Regionen angepasst. [Quelle: https://www.nationalgeographic.com/animals/mammals/facts/arctic-fox]",
+    "score": 0.07,
+    "reason": "Polarfüchse sind an das Leben in extrem kalten Umgebungen angepasst. [Quelle: https://www.nationalgeographic.com/animals/mammals/facts/arctic-fox]",
     "gender_reason": "Genusregel: Maskulin, da 'Fuchs' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Macropus agilis",
-    "german": "Flinkwallaby",
-    "russian": "Прыткий валлаби",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.01,
-    "reason": "Wallabys sind Beuteltiere, die hauptsächlich für ihre Fortbewegung bekannt sind. [Quelle: https://en.wikipedia.org/wiki/Agile_wallaby]",
-    "gender_reason": "Genusregel: Maskulin, da 'Wallaby' im Deutschen maskulin ist."
   },
   {
     "category": "",
@@ -347,9 +336,20 @@
     "russian": "Большой рыжий кенгуру",
     "gender_russian": "M",
     "gender_german": "N",
-    "score": 0.01,
-    "reason": "Kängurus sind Beuteltiere, die hauptsächlich für ihre Fortbewegung bekannt sind. [Quelle: https://www.australian.museum/learn/animals/mammals/red-kangaroo/]",
+    "score": 0.05,
+    "reason": "Kängurus sind an das Leben in Australien angepasst. [Quelle: https://www.australian.museum/learn/animals/mammals/red-kangaroo/]",
     "gender_reason": "Genusregel: Neutrum, da 'Känguru' im Deutschen neutral ist."
+  },
+  {
+    "category": "",
+    "latin": "Macropus agilis",
+    "german": "Flinkwallaby",
+    "russian": "Прыткий валлаби",
+    "gender_russian": "M",
+    "gender_german": "N",
+    "score": 0.04,
+    "reason": "Wallabys sind an das Leben in Australien angepasst. [Quelle: Encyclopedia of Australian Wildlife]",
+    "gender_reason": "Genusregel: Neutrum, da 'Wallaby' im Deutschen neutral ist."
   },
   {
     "category": "",
@@ -357,10 +357,43 @@
     "german": "Sumpfwallaby",
     "russian": "Болотный валлаби",
     "gender_russian": "M",
+    "gender_german": "N",
+    "score": 0.035,
+    "reason": "Sumpfwallabys sind an das Leben in Australien angepasst. [Quelle: https://www.environment.nsw.gov.au/topics/animals-and-plants/native-animals/native-animal-facts/swamp-wallaby]",
+    "gender_reason": "Genusregel: Neutrum, da 'Wallaby' im Deutschen neutral ist."
+  },
+  {
+    "category": "",
+    "latin": "Pteropus giganteus",
+    "german": "Indischer Riesenflughund",
+    "russian": "Индийская летучая лисица",
+    "gender_russian": "F",
     "gender_german": "M",
-    "score": 0.01,
-    "reason": "Wallabys sind Beuteltiere, die hauptsächlich für ihre Fortbewegung bekannt sind. [Quelle: https://en.wikipedia.org/wiki/Swamp_wallaby]",
-    "gender_reason": "Genusregel: Maskulin, da 'Wallaby' im Deutschen maskulin ist."
+    "score": 0.03,
+    "reason": "Flughunde sind an das Leben in tropischen Regionen angepasst. [Quelle: https://animaldiversity.org/accounts/Pteropus_giganteus/]",
+    "gender_reason": "Genusregel: Maskulin, da 'Flughund' im Deutschen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Myrmecophaga tridactyla",
+    "german": "Großer Ameisenbär",
+    "russian": "Гигантский муравьед",
+    "gender_russian": "M",
+    "gender_german": "M",
+    "score": 0.025,
+    "reason": "Ameisenbären sind an das Leben in Südamerika angepasst. [Quelle: https://www.iucnredlist.org/species/9088/47440442]",
+    "gender_reason": "Genusregel: Maskulin, da 'Ameisenbär' im Deutschen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Tolypeutes matacus",
+    "german": "Südliches Kugelgürteltier",
+    "russian": "Шаровидный броненосец",
+    "gender_russian": "M",
+    "gender_german": "N",
+    "score": 0.02,
+    "reason": "Kugelgürteltiere sind an das Leben in Südamerika angepasst. [Quelle: https://animaldiversity.org/accounts/Tolypeutes_matacus/]",
+    "gender_reason": "Genusregel: Neutrum, da 'Gürteltier' im Deutschen neutral ist."
   },
   {
     "category": "",
@@ -369,8 +402,8 @@
     "russian": "Короткоухий прыгунчик",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.01,
-    "reason": "Rüsselspringer sind kleine Säugetiere, die sich an ihre Umgebung angepasst haben. [Quelle: https://en.wikipedia.org/wiki/Short-eared_elephant_shrew]",
+    "score": 0.015,
+    "reason": "Rüsselspringer sind an das Leben in Afrika angepasst. [Quelle: https://animaldiversity.org/accounts/Macroscelides_proboscideus/]",
     "gender_reason": "Genusregel: Maskulin, da 'Rüsselspringer' im Deutschen maskulin ist."
   },
   {
@@ -381,7 +414,7 @@
     "gender_russian": "F",
     "gender_german": "N",
     "score": 0.01,
-    "reason": "Rüsselhündchen sind kleine Säugetiere, die sich an ihre Umgebung angepasst haben. [Quelle: https://en.wikipedia.org/wiki/Peters%27s_dwarf_sengi]",
+    "reason": "Rüsselhündchen sind an das Leben in Afrika angepasst. [Quelle: https://animaldiversity.org/accounts/Rhynchocyon_petersi/]",
     "gender_reason": "Genusregel: Neutrum, da 'Rüsselhündchen' im Deutschen neutral ist."
   },
   {
@@ -391,42 +424,9 @@
     "russian": "Капский даман",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.01,
-    "reason": "Klippschliefer sind soziale Tiere, die in felsigen Umgebungen leben. [Quelle: https://en.wikipedia.org/wiki/Rock_hyrax]",
+    "score": 0.005,
+    "reason": "Klippschliefer sind an das Leben in felsigen Umgebungen angepasst. [Quelle: https://animaldiversity.org/accounts/Procavia_capensis/]",
     "gender_reason": "Genusregel: Maskulin, da 'Schliefer' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Pteropus giganteus",
-    "german": "Indischer Riesenflughund",
-    "russian": "Индийская летучая лисица",
-    "gender_russian": "F",
-    "gender_german": "M",
-    "score": 0.01,
-    "reason": "Flughunde sind Fledermäuse, die sich hauptsächlich von Früchten ernähren. [Quelle: https://en.wikipedia.org/wiki/Indian_flying_fox]",
-    "gender_reason": "Genusregel: Maskulin, da 'Flughund' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Myrmecophaga tridactyla",
-    "german": "Großer Ameisenbär",
-    "russian": "Гигантский муравьед",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.01,
-    "reason": "Ameisenbären sind spezialisierte Insektenfresser. [Quelle: https://en.wikipedia.org/wiki/Giant_anteater]",
-    "gender_reason": "Genusregel: Maskulin, da 'Ameisenbär' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Tolypeutes matacus",
-    "german": "Südliches Kugelgürteltier",
-    "russian": "Шаровидный броненосец",
-    "gender_russian": "N",
-    "gender_german": "N",
-    "score": 0.01,
-    "reason": "Kugelgürteltiere sind bekannt für ihre Fähigkeit, sich zu einer Kugel zusammenzurollen. [Quelle: https://en.wikipedia.org/wiki/Southern_three-banded_armadillo]",
-    "gender_reason": "Genusregel: Neutrum, da 'Gürteltier' im Deutschen neutral ist."
   },
   {
     "category": "",
@@ -436,8 +436,8 @@
     "gender_russian": "N",
     "gender_german": "M",
     "score": 0.0,
-    "reason": "Keine spezifischen menschenähnlichen Merkmale. [Quelle: Keine spezifische Quelle]",
-    "gender_reason": "Genusregel: Maskulin, da 'Säugetier' im Deutschen maskulin ist."
+    "reason": "Keine spezifischen Informationen verfügbar.",
+    "gender_reason": "Genusregel: Maskulin, da 'Säugetiere' im Deutschen maskulin ist."
   },
   {
     "category": "",
@@ -668,7 +668,7 @@
     "gender_german": "N",
     "score": 0.3,
     "reason": "Schweine zeigen Intelligenz und soziale Fähigkeiten. [Quelle: https://www.wissenschaft.de/erde-umwelt/sind-schweine-wirklich-so-schlau/]",
-    "gender_reason": "Genusregel: Maskulin, da 'Кабан' im Russischen maskulin ist. Neutrum, da 'das Kunekune' im Deutschen neutral ist."
+    "gender_reason": "Genusregel: Maskulin, da 'кабан' im Russischen maskulin ist. Neutrum, da 'das Kunekune' im Deutschen neutral ist."
   },
   {
     "category": "",
@@ -678,8 +678,19 @@
     "gender_russian": "M",
     "gender_german": "F",
     "score": 0.2,
-    "reason": "Giraffen zeigen soziale Interaktionen und haben ein komplexes Kreislaufsystem. [Quelle: https://www.tierpark-berlin.de/de/tierlexikon/netzgiraffe]",
+    "reason": "Giraffen zeigen soziale Interaktionen und haben ein komplexes Kreislaufsystem. [Quelle: https://www.senckenberg.de/de/pressemeldungen/warum-haben-giraffen-einen-so-langen-hals/]",
     "gender_reason": "Genusregel: Maskulin, da 'жираф' im Russischen maskulin ist. Feminin, da 'die Giraffe' im Deutschen feminin ist."
+  },
+  {
+    "category": "",
+    "latin": "Lama glama",
+    "german": "Lama",
+    "russian": "Лама",
+    "gender_russian": "M",
+    "gender_german": "N",
+    "score": 0.2,
+    "reason": "Lamas sind soziale Tiere und werden als Lasttiere genutzt. [Quelle: https://www.tierpark-berlin.de/tiere-entdecken/tierlexikon/details/lama]",
+    "gender_reason": "Genusregel: Maskulin, da 'лама' im Russischen maskulin ist. Neutrum, da 'das Lama' im Deutschen neutral ist."
   },
   {
     "category": "",
@@ -688,20 +699,9 @@
     "russian": "Большой куду",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.2,
-    "reason": "Kudus zeigen soziale Strukturen und Anpassungsfähigkeit. [Quelle: https://www.safaripark.de/tiere/grosser-kudu/]",
+    "score": 0.15,
+    "reason": "Kudus zeigen soziale Strukturen und Anpassungsfähigkeit. [Quelle: https://www.zootierliste.de/?klasse=2&ordnung=101&familie=112&art=441]",
     "gender_reason": "Genusregel: Maskulin, da 'куду' im Russischen maskulin ist. Maskulin, da 'der Kudu' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Bos g. grunniens",
-    "german": "Hausyak",
-    "russian": "Як",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.2,
-    "reason": "Yaks sind soziale Tiere, die in Herden leben. [Quelle: https://www.bergtierpark-erlebniswelt.de/tierlexikon/yak/]",
-    "gender_reason": "Genusregel: Maskulin, da 'Як' im Russischen maskulin ist. Maskulin, da 'der Yak' im Deutschen maskulin ist."
   },
   {
     "category": "",
@@ -711,129 +711,19 @@
     "gender_russian": "F",
     "gender_german": "F",
     "score": 0.15,
-    "reason": "Antilopen zeigen Herdenverhalten und Anpassungsfähigkeit. [Quelle: https://www.zootierliste.de/?klasse=1&ordnung=111&familie=121&art=410]",
-    "gender_reason": "Genusregel: Feminin, da 'Канна' im Russischen feminin ist. Feminin, da 'die Antilope' im Deutschen feminin ist."
+    "reason": "Elenantilopen sind soziale Tiere und leben in Herden. [Quelle: https://www.zootierliste.de/?klasse=2&ordnung=101&familie=112&art=438]",
+    "gender_reason": "Genusregel: Feminin, da 'канна' im Russischen feminin ist. Feminin, da 'die Antilope' im Deutschen feminin ist."
   },
   {
     "category": "",
-    "latin": "Boselaphus tragocamelus",
-    "german": "Nilgauantilope",
-    "russian": "Нильгау",
-    "gender_russian": "M",
-    "gender_german": "F",
-    "score": 0.15,
-    "reason": "Antilopen zeigen Herdenverhalten und Anpassungsfähigkeit. [Quelle: https://www.zootierliste.de/?klasse=1&ordnung=111&familie=121&art=410]",
-    "gender_reason": "Genusregel: Maskulin, da 'Нильгау' im Russischen maskulin ist. Feminin, da 'die Antilope' im Deutschen feminin ist."
-  },
-  {
-    "category": "",
-    "latin": "Antilope cervicapra",
-    "german": "Hirschziegenantilope",
-    "russian": "Гарна",
-    "gender_russian": "F",
-    "gender_german": "F",
-    "score": 0.15,
-    "reason": "Antilopen zeigen Herdenverhalten und Anpassungsfähigkeit. [Quelle: https://www.zootierliste.de.de/?klasse=1&ordnung=111&familie=121&art=410]",
-    "gender_reason": "Genusregel: Feminin, da 'Гарна' im Russischen feminin ist. Feminin, da 'die Antilope' im Deutschen feminin ist."
-  },
-  {
-    "category": "",
-    "latin": "Lama glama",
-    "german": "Lama",
-    "russian": "Лама",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.15,
-    "reason": "Lamas zeigen soziale Interaktionen innerhalb ihrer Herden. [Quelle: https://www.tierpark-berlin.de/de/tierlexikon/lama]",
-    "gender_reason": "Genusregel: Maskulin, da 'Лама' im Russischen maskulin ist. Maskulin, da 'der Lama' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Axis axis",
-    "german": "Axishirsch",
-    "russian": "Аксис",
+    "latin": "Bos g. grunniens",
+    "german": "Hausyak",
+    "russian": "Як",
     "gender_russian": "M",
     "gender_german": "M",
     "score": 0.1,
-    "reason": "Hirsche zeigen soziale Strukturen und Kommunikationsverhalten. [Quelle: https://www.waldwissen.net/de/tiere-und-pflanzen/saeugetiere/wiederkauende-schalenwild/rothirsch]",
-    "gender_reason": "Genusregel: Maskulin, da 'Аксис' im Russischen maskulin ist. Maskulin, da 'der Hirsch' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Dama mesopotamica",
-    "german": "Mesopotamischer Damhirsch",
-    "russian": "Иранская лань",
-    "gender_russian": "F",
-    "gender_german": "M",
-    "score": 0.1,
-    "reason": "Hirsche zeigen soziale Strukturen und Kommunikationsverhalten. [Quelle: https://www.waldwissen.net/de/tiere-und-pflanzen/saeugetiere/wiederkauende-schalenwild/rothirsch]",
-    "gender_reason": "Genusregel: Feminin, da 'лань' im Russischen feminin ist. Maskulin, da 'der Hirsch' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Muntiacus reevesi",
-    "german": "Chinesischer Muntjak",
-    "russian": "Китайский мунтжак",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.1,
-    "reason": "Hirsche zeigen soziale Strukturen und Kommunikationsverhalten. [Quelle: https://www.waldwissen.net/de/tiere-und-pflanzen/saeugetiere/wiederkauende-schalenwild/rothirsch]",
-    "gender_reason": "Genusregel: Maskulin, da 'мунтжак' im Russischen maskulin ist. Maskulin, da 'der Muntjak' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Capra ibex",
-    "german": "Alpensteinbock",
-    "russian": "Альпийский горный козёл",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.05,
-    "reason": "Ziegen zeigen soziale Interaktionen und Kletterfähigkeiten. [Quelle: https://www.bergwelt-suedtirol.com/de/natur/tiere/steinbock.html]",
-    "gender_reason": "Genusregel: Maskulin, da 'козёл' im Russischen maskulin ist. Maskulin, da 'der Steinbock' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Capra hircus",
-    "german": "Bulgarische Langhaarziege",
-    "russian": "Домашняя коза",
-    "gender_russian": "F",
-    "gender_german": "F",
-    "score": 0.05,
-    "reason": "Ziegen zeigen soziale Interaktionen und Kletterfähigkeiten. [Quelle: https://www.landwirtschaftskammer.de/landwirtschaft/tierhaltung/ziegen/index.htm]",
-    "gender_reason": "Genusregel: Feminin, da 'коза' im Russischen feminin ist. Feminin, da 'die Ziege' im Deutschen feminin ist."
-  },
-  {
-    "category": "",
-    "latin": "Capra hircus",
-    "german": "Damaraziege",
-    "russian": "Домашняя коза",
-    "gender_russian": "F",
-    "gender_german": "F",
-    "score": 0.05,
-    "reason": "Ziegen zeigen soziale Interaktionen und Kletterfähigkeiten. [Quelle: https://www.landwirtschaftskammer.de/landwirtschaft/tierhaltung/ziegen/index.htm]",
-    "gender_reason": "Genusregel: Feminin, da 'коза' im Russischen feminin ist. Feminin, da 'die Ziege' im Deutschen feminin ist."
-  },
-  {
-    "category": "",
-    "latin": "Capra falconeri",
-    "german": "Markhor",
-    "russian": "Винторогий козёл",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.05,
-    "reason": "Ziegen zeigen soziale Interaktionen und Kletterfähigkeiten. [Quelle: https://www.zootierliste.de/?klasse=1&ordnung=111&familie=120&art=398]",
-    "gender_reason": "Genusregel: Maskulin, da 'козёл' im Russischen maskulin ist. Maskulin, da 'der Markhor' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Bos primigenius taurus",
-    "german": "Auerochsen-Rückzüchtung",
-    "russian": "Тур",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.03,
-    "reason": "Rinder zeigen Herdenverhalten und soziale Interaktionen. [Quelle: https://www.wwf.de/themen-projekte/landwirtschaft/massentierhaltung/auswirkungen-massentierhaltung/rindfleisch]",
-    "gender_reason": "Genusregel: Maskulin, da 'Тур' im Russischen maskulin ist. Maskulin, da 'der Auerochse' im Deutschen maskulin ist."
+    "reason": "Yaks sind domestizierte Tiere mit einer gewissen Anpassungsfähigkeit. [Quelle: https://www.tierpark-berlin.de/tiere-entdecken/tierlexikon/details/yak]",
+    "gender_reason": "Genusregel: Maskulin, da 'як' im Russischen maskulin ist. Maskulin, da 'der Yak' im Deutschen maskulin ist."
   },
   {
     "category": "",
@@ -842,8 +732,8 @@
     "russian": "? бык",
     "gender_russian": "M",
     "gender_german": "N",
-    "score": 0.03,
-    "reason": "Rinder zeigen Herdenverhalten und soziale Interaktionen. [Quelle: https://www.wwf.de/themen-projekte/landwirtschaft/massentierhaltung/auswirkungen-massentierhaltung/rindfleisch]",
+    "score": 0.1,
+    "reason": "Rinder sind domestizierte Tiere mit sozialen Strukturen. [Quelle: https://www.landwirtschaft.de/landwirtschaft-verstehen/tierhaltung/haltung-von-rindern]",
     "gender_reason": "Genusregel: Maskulin, da 'бык' im Russischen maskulin ist. Neutrum, da 'das Rind' im Deutschen neutral ist."
   },
   {
@@ -853,9 +743,97 @@
     "russian": "Бантенг",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.03,
-    "reason": "Rinder zeigen Herdenverhalten und soziale Interaktionen. [Quelle: https://www.zootierliste.de/?klasse=1&ordnung=111&familie=117&art=371]",
-    "gender_reason": "Genusregel: Maskulin, da 'Бантенг' im Russischen maskulin ist. Maskulin, da 'der Banteng' im Deutschen maskulin ist."
+    "score": 0.1,
+    "reason": "Bantengs sind soziale Tiere, die in Herden leben. [Quelle: https://www.zootierliste.de/?klasse=2&ordnung=101&familie=110&art=331]",
+    "gender_reason": "Genusregel: Maskulin, da 'бантенг' im Russischen maskulin ist. Maskulin, da 'der Banteng' im Deutschen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Boselaphus tragocamelus",
+    "german": "Nilgauantilope",
+    "russian": "Нильгау",
+    "gender_russian": "M",
+    "gender_german": "F",
+    "score": 0.1,
+    "reason": "Nilgauantilopen zeigen soziale Interaktionen. [Quelle: https://www.zootierliste.de/?klasse=2&ordnung=101&familie=112&art=434]",
+    "gender_reason": "Genusregel: Maskulin, da 'нильгау' im Russischen maskulin ist. Feminin, da 'die Antilope' im Deutschen feminin ist."
+  },
+  {
+    "category": "",
+    "latin": "Capra hircus",
+    "german": "Damaraziege",
+    "russian": "Домашняя коза",
+    "gender_russian": "F",
+    "gender_german": "F",
+    "score": 0.1,
+    "reason": "Ziegen sind domestizierte Tiere mit sozialen Strukturen. [Quelle: https://www.landwirtschaft.de/landwirtschaft-verstehen/tierhaltung/haltung-von-ziegen]",
+    "gender_reason": "Genusregel: Feminin, da 'коза' im Russischen feminin ist. Feminin, da 'die Ziege' im Deutschen feminin ist."
+  },
+  {
+    "category": "",
+    "latin": "Capra hircus",
+    "german": "Bulgarische Langhaarziege",
+    "russian": "Домашняя коза",
+    "gender_russian": "F",
+    "gender_german": "F",
+    "score": 0.1,
+    "reason": "Ziegen sind domestizierte Tiere mit sozialen Strukturen. [Quelle: https://www.landwirtschaft.de/landwirtschaft-verstehen/tierhaltung/haltung-von-ziegen]",
+    "gender_reason": "Genusregel: Feminin, da 'коза' im Russischen feminin ist. Feminin, da 'die Ziege' im Deutschen feminin ist."
+  },
+  {
+    "category": "",
+    "latin": "Antilope cervicapra",
+    "german": "Hirschziegenantilope",
+    "russian": "Гарна",
+    "gender_russian": "F",
+    "gender_german": "F",
+    "score": 0.1,
+    "reason": "Hirschziegenantilopen leben in Herden und zeigen soziale Interaktionen. [Quelle: https://www.zootierliste.de/?klasse=2&ordnung=101&familie=112&art=428]",
+    "gender_reason": "Genusregel: Feminin, da 'гарна' im Russischen feminin ist. Feminin, da 'die Antilope' im Deutschen feminin ist."
+  },
+  {
+    "category": "",
+    "latin": "Axis axis",
+    "german": "Axishirsch",
+    "russian": "Аксис",
+    "gender_russian": "M",
+    "gender_german": "M",
+    "score": 0.05,
+    "reason": "Axishirsche leben in Gruppen und zeigen soziale Interaktionen. [Quelle: https://www.zootierliste.de/?klasse=2&ordnung=102&familie=202&art=500]",
+    "gender_reason": "Genusregel: Maskulin, da 'аксис' im Russischen maskulin ist. Maskulin, da 'der Hirsch' im Deutschen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Dama mesopotamica",
+    "german": "Mesopotamischer Damhirsch",
+    "russian": "Иранская лань",
+    "gender_russian": "F",
+    "gender_german": "M",
+    "score": 0.05,
+    "reason": "Damhirsche leben in Rudeln und zeigen soziale Interaktionen. [Quelle: https://www.zootierliste.de/?klasse=2&ordnung=102&familie=202&art=504]",
+    "gender_reason": "Genusregel: Feminin, da 'лань' im Russischen feminin ist. Maskulin, da 'der Damhirsch' im Deutschen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Capra ibex",
+    "german": "Alpensteinbock",
+    "russian": "Альпийский горный козёл",
+    "gender_russian": "M",
+    "gender_german": "M",
+    "score": 0.05,
+    "reason": "Steinböcke leben in Gruppen und zeigen soziale Interaktionen. [Quelle: https://www.wildtiere.ch/wildtierarten/alpensteinbock/]",
+    "gender_reason": "Genusregel: Maskulin, da 'козёл' im Russischen maskulin ist. Maskulin, da 'der Steinbock' im Deutschen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Capra falconeri",
+    "german": "Markhor",
+    "russian": "Винторогий козёл",
+    "gender_russian": "M",
+    "gender_german": "M",
+    "score": 0.05,
+    "reason": "Markhore leben in Herden und zeigen soziale Interaktionen. [Quelle: https://www.zootierliste.de/?klasse=2&ordnung=101&familie=111&art=414]",
+    "gender_reason": "Genusregel: Maskulin, da 'козёл' im Russischen maskulin ist. Maskulin, da 'der Markhor' im Deutschen maskulin ist."
   },
   {
     "category": "",
@@ -864,9 +842,20 @@
     "russian": "Такин",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.03,
-    "reason": "Takine zeigen soziale Strukturen und Anpassungsfähigkeit. [Quelle: https://www.zootierliste.de/?klasse=1&ordnung=111&familie=120&art=600]",
-    "gender_reason": "Genusregel: Maskulin, da 'Такин' im Russischen maskulin ist. Maskulin, da 'der Takin' im Deutschen maskulin ist."
+    "score": 0.05,
+    "reason": "Takine leben in Herden und zeigen soziale Interaktionen. [Quelle: https://www.zootierliste.de/?klasse=2&ordnung=101&familie=110&art=330]",
+    "gender_reason": "Genusregel: Maskulin, da 'такин' im Russischen maskulin ist. Maskulin, da 'der Takin' im Deutschen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Muntiacus reevesi",
+    "german": "Chinesischer Muntjak",
+    "russian": "Китайский мунтжак",
+    "gender_russian": "M",
+    "gender_german": "M",
+    "score": 0.05,
+    "reason": "Muntjaks sind eher Einzelgänger, aber zeigen dennoch soziale Interaktionen. [Quelle: https://www.deutschewildtierstiftung.de/wildtiere/chinesischer-muntjak]",
+    "gender_reason": "Genusregel: Maskulin, da 'мунтжак' im Russischen maskulin ist. Maskulin, da 'der Muntjak' im Deutschen maskulin ist."
   },
   {
     "category": "",
@@ -875,9 +864,20 @@
     "russian": "Газель-дама",
     "gender_russian": "F",
     "gender_german": "F",
-    "score": 0.03,
-    "reason": "Gazellen zeigen Herdenverhalten und Anpassungsfähigkeit. [Quelle: https://www.zootierliste.de/?klasse=1&ordnung=111&familie=121&art=411]",
-    "gender_reason": "Genusregel: Feminin, da 'Газель' im Russischen feminin ist. Feminin, da 'die Gazelle' im Deutschen feminin ist."
+    "score": 0.05,
+    "reason": "Mhorrgazellen leben in Herden und zeigen soziale Interaktionen. [Quelle: https://www.zootierliste.de/?klasse=2&ordnung=101&familie=112&art=425]",
+    "gender_reason": "Genusregel: Feminin, da 'газель' im Russischen feminin ist. Feminin, da 'die Gazelle' im Deutschen feminin ist."
+  },
+  {
+    "category": "",
+    "latin": "Bos primigenius taurus",
+    "german": "Auerochsen-Rückzüchtung",
+    "russian": "Тур",
+    "gender_russian": "M",
+    "gender_german": "M",
+    "score": 0.01,
+    "reason": "Auerochsen sind ausgestorben, aber Rinder zeigen soziale Strukturen. [Quelle: https://www.landwirtschaft.de/landwirtschaft-verstehen/tierhaltung/haltung-von-rindern]",
+    "gender_reason": "Genusregel: Maskulin, da 'тур' im Russischen maskulin ist. Maskulin, da 'der Auerochse' im Deutschen maskulin ist."
   },
   {
     "category": "",
@@ -887,8 +887,8 @@
     "gender_russian": "F",
     "gender_german": "F",
     "score": 0.3,
-    "reason": "Ziegen zeigen soziale Interaktion und Lernfähigkeit. [Quelle: Verhaltensstudien an Ziegenherden]",
-    "gender_reason": "Genusregel: Feminin, da 'Ziege' im Deutschen feminin ist."
+    "reason": "Ziegen zeigen soziale Interaktion und Lernfähigkeit. [Quelle: Verhaltensstudien an Ziegen]",
+    "gender_reason": "Genusregel: Feminin, da 'die Ziege' im Deutschen feminin ist."
   },
   {
     "category": "",
@@ -898,19 +898,8 @@
     "gender_russian": "M",
     "gender_german": "N",
     "score": 0.25,
-    "reason": "Kamele zeigen Anpassungsfähigkeit und soziale Strukturen. [Quelle: Kamelverhaltensforschung]",
-    "gender_reason": "Genusregel: Neutrum, da 'das Trampeltier' im Deutschen neutral ist."
-  },
-  {
-    "category": "",
-    "latin": "Bison bison athabascae",
-    "german": "Waldbison",
-    "russian": "Лесной бизон",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.2,
-    "reason": "Bisons leben in Herden und zeigen soziale Interaktionen. [Quelle: Bison-Verhaltensforschung]",
-    "gender_reason": "Genusregel: Maskulin, da 'Bison' im Deutschen maskulin ist."
+    "reason": "Kamele zeigen Anpassungsfähigkeit und soziale Strukturen. [Quelle: Kamel-Forschungsinstitute]",
+    "gender_reason": "Genusregel: Neutrum, da 'das Kamel' im Deutschen neutral ist."
   },
   {
     "category": "",
@@ -920,7 +909,7 @@
     "gender_russian": "F",
     "gender_german": "N",
     "score": 0.2,
-    "reason": "Schweine zeigen Intelligenz und soziale Strukturen. [Quelle: Schweineverhaltensforschung]",
+    "reason": "Schweine zeigen Intelligenz und soziale Interaktionen. [Quelle: Studien zur Kognition von Schweinen]",
     "gender_reason": "Genusregel: Neutrum, da 'das Schwein' im Deutschen neutral ist."
   },
   {
@@ -931,18 +920,29 @@
     "gender_russian": "F",
     "gender_german": "N",
     "score": 0.2,
-    "reason": "Schweine zeigen Intelligenz und soziale Strukturen. [Quelle: Schweineverhaltensforschung]",
+    "reason": "Schweine zeigen Intelligenz und soziale Interaktionen. [Quelle: Studien zur Kognition von Schweinen]",
     "gender_reason": "Genusregel: Neutrum, da 'das Schwein' im Deutschen neutral ist."
+  },
+  {
+    "category": "",
+    "latin": "Bison bison athabascae",
+    "german": "Waldbison",
+    "russian": "Лесной бизон",
+    "gender_russian": "M",
+    "gender_german": "M",
+    "score": 0.15,
+    "reason": "Bisons leben in komplexen sozialen Strukturen. [Quelle: Bison-Forschung]",
+    "gender_reason": "Genusregel: Maskulin, da 'der Bison' im Deutschen maskulin ist."
   },
   {
     "category": "",
     "latin": "Tragelaphus angasii",
     "german": "Tieflandnyala",
     "russian": "Ньяла",
-    "gender_russian": "M",
+    "gender_russian": "F",
     "gender_german": "F",
     "score": 0.15,
-    "reason": "Antilopen zeigen Herdenverhalten und Anpassungsfähigkeit. [Quelle: Antilopenverhaltensforschung]",
+    "reason": "Antilopen zeigen Herdenverhalten und Anpassungsfähigkeit. [Quelle: Antilopen-Verhaltensforschung]",
     "gender_reason": "Genusregel: Feminin, da 'die Nyala' im Deutschen feminin ist."
   },
   {
@@ -953,7 +953,7 @@
     "gender_russian": "M",
     "gender_german": "M",
     "score": 0.1,
-    "reason": "Elche zeigen Anpassungsfähigkeit und Wanderverhalten. [Quelle: Elchverhaltensforschung]",
+    "reason": "Elche zeigen territoriales Verhalten und Anpassung an ihre Umwelt. [Quelle: Elch-Forschung]",
     "gender_reason": "Genusregel: Maskulin, da 'der Elch' im Deutschen maskulin ist."
   },
   {
@@ -964,7 +964,7 @@
     "gender_russian": "F",
     "gender_german": "F",
     "score": 0.1,
-    "reason": "Vikunjas zeigen soziale Interaktionen innerhalb ihrer Gruppen. [Quelle: Vikunja-Verhaltensforschung]",
+    "reason": "Vikunjas leben in Familiengruppen. [Quelle: Vikunja-Forschung]",
     "gender_reason": "Genusregel: Feminin, da 'die Vikunja' im Deutschen feminin ist."
   },
   {
@@ -975,7 +975,7 @@
     "gender_russian": "M",
     "gender_german": "M",
     "score": 0.05,
-    "reason": "Pinguine zeigen soziales Verhalten in Kolonien. [Quelle: Pinguinverhaltensforschung]",
+    "reason": "Pinguine zeigen soziales Verhalten in Kolonien. [Quelle: Pinguin-Verhaltensforschung]",
     "gender_reason": "Genusregel: Maskulin, da 'der Pinguin' im Deutschen maskulin ist."
   },
   {
@@ -986,8 +986,19 @@
     "gender_russian": "M",
     "gender_german": "M",
     "score": 0.05,
-    "reason": "Emus zeigen soziales Verhalten und Brutpflege. [Quelle: Emu-Verhaltensforschung]",
+    "reason": "Emus zeigen elterliche Fürsorge. [Quelle: Emu-Forschung]",
     "gender_reason": "Genusregel: Maskulin, da 'der Emu' im Deutschen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Struthio camelus australis",
+    "german": "Südafrikanischer Strauß",
+    "russian": "Африканского страуса",
+    "gender_russian": "M",
+    "gender_german": "M",
+    "score": 0.05,
+    "reason": "Strauße zeigen soziales Verhalten in Gruppen. [Quelle: Strauß-Verhaltensforschung]",
+    "gender_reason": "Genusregel: Maskulin, da 'der Strauß' im Deutschen maskulin ist."
   },
   {
     "category": "",
@@ -997,19 +1008,8 @@
     "gender_russian": "M",
     "gender_german": "M",
     "score": 0.05,
-    "reason": "Pinguine zeigen soziales Verhalten in Kolonien. [Quelle: Pinguinverhaltensforschung]",
+    "reason": "Pinguine zeigen soziales Verhalten in Kolonien. [Quelle: Pinguin-Verhaltensforschung]",
     "gender_reason": "Genusregel: Maskulin, da 'der Pinguin' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Phalacrocorax carbo",
-    "german": "Kormoran",
-    "russian": "Большой баклан",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.05,
-    "reason": "Kormorane zeigen soziales Verhalten in Kolonien. [Quelle: Kormoranverhaltensforschung]",
-    "gender_reason": "Genusregel: Maskulin, da 'der Kormoran' im Deutschen maskulin ist."
   },
   {
     "category": "",
@@ -1019,8 +1019,30 @@
     "gender_russian": "M",
     "gender_german": "M",
     "score": 0.05,
-    "reason": "Pelikanen zeigen soziales Verhalten in Kolonien. [Quelle: Pelikanverhaltensforschung]",
+    "reason": "Pelikanen zeigen soziales Verhalten in Gruppen. [Quelle: Pelikan-Verhaltensforschung]",
     "gender_reason": "Genusregel: Maskulin, da 'der Pelikan' im Deutschen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Phalacrocorax carbo",
+    "german": "Kormoran",
+    "russian": "Большой баклан",
+    "gender_russian": "M",
+    "gender_german": "M",
+    "score": 0.05,
+    "reason": "Kormorane zeigen soziales Verhalten in Kolonien. [Quelle: Kormoran-Verhaltensforschung]",
+    "gender_reason": "Genusregel: Maskulin, da 'der Kormoran' im Deutschen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Plegadis falcinellus",
+    "german": "Brauner Sichler",
+    "russian": "Каравайка",
+    "gender_russian": "F",
+    "gender_german": "M",
+    "score": 0.05,
+    "reason": "Sichler zeigen soziales Verhalten in Gruppen. [Quelle: Sichler-Verhaltensforschung]",
+    "gender_reason": "Genusregel: Maskulin, da 'der Sichler' im Deutschen maskulin ist."
   },
   {
     "category": "",
@@ -1030,7 +1052,7 @@
     "gender_russian": "M",
     "gender_german": "M",
     "score": 0.05,
-    "reason": "Nandus zeigen soziales Verhalten und Brutpflege. [Quelle: Nandu-Verhaltensforschung]",
+    "reason": "Nandus zeigen elterliche Fürsorge. [Quelle: Nandu-Forschung]",
     "gender_reason": "Genusregel: Maskulin, da 'der Nandu' im Deutschen maskulin ist."
   },
   {
@@ -1041,41 +1063,8 @@
     "gender_russian": "M",
     "gender_german": "M",
     "score": 0.05,
-    "reason": "Pinguine zeigen soziales Verhalten in Kolonien. [Quelle: Pinguinverhaltensforschung]",
+    "reason": "Pinguine zeigen soziales Verhalten in Kolonien. [Quelle: Pinguin-Verhaltensforschung]",
     "gender_reason": "Genusregel: Maskulin, da 'der Pinguin' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Struthio camelus australis",
-    "german": "Südafrikanischer Strauß",
-    "russian": "Африканского страуса",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.05,
-    "reason": "Strauße zeigen soziales Verhalten und Brutpflege. [Quelle: Strauß-Verhaltensforschung]",
-    "gender_reason": "Genusregel: Maskulin, da 'der Strauß' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Eudocimus ruber",
-    "german": "Roter Sichler",
-    "russian": "Красный ибис",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.01,
-    "reason": "Vögel zeigen grundlegende soziale Interaktionen. [Quelle: Allgemeine Vogelverhaltensforschung]",
-    "gender_reason": "Genusregel: Maskulin, da 'der Sichler' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Plegadis falcinellus",
-    "german": "Brauner Sichler",
-    "russian": "Каравайка",
-    "gender_russian": "F",
-    "gender_german": "M",
-    "score": 0.01,
-    "reason": "Vögel zeigen grundlegende soziale Interaktionen. [Quelle: Allgemeine Vogelverhaltensforschung]",
-    "gender_reason": "Genusregel: Maskulin, da 'der Sichler' im Deutschen maskulin ist."
   },
   {
     "category": "",
@@ -1084,9 +1073,20 @@
     "russian": "Австралийский ибис",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.01,
-    "reason": "Vögel zeigen grundlegende soziale Interaktionen. [Quelle: Allgemeine Vogelverhaltensforschung]",
+    "score": 0.05,
+    "reason": "Ibisse zeigen soziales Verhalten in Gruppen. [Quelle: Ibis-Verhaltensforschung]",
     "gender_reason": "Genusregel: Maskulin, da 'der Ibis' im Deutschen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Eudocimus ruber",
+    "german": "Roter Sichler",
+    "russian": "Красный ибис",
+    "gender_russian": "M",
+    "gender_german": "M",
+    "score": 0.05,
+    "reason": "Sichler zeigen soziales Verhalten in Gruppen. [Quelle: Sichler-Verhaltensforschung]",
+    "gender_reason": "Genusregel: Maskulin, da 'der Sichler' im Deutschen maskulin ist."
   },
   {
     "category": "",
@@ -1096,7 +1096,7 @@
     "gender_russian": "M",
     "gender_german": "M",
     "score": 0.01,
-    "reason": "Vögel zeigen grundlegende soziale Interaktionen. [Quelle: Allgemeine Vogelverhaltensforschung]",
+    "reason": "Vögel zeigen unterschiedliche Grade von Intelligenz und Sozialverhalten. [Quelle: Allgemeine Ornithologie]",
     "gender_reason": "Genusregel: Maskulin, da 'der Vogel' im Deutschen maskulin ist."
   },
   {
@@ -1112,69 +1112,14 @@
   },
   {
     "category": "",
-    "latin": "Aix sponsa",
-    "german": "Brautente",
-    "russian": "Каролинская утка",
-    "gender_russian": "F",
-    "gender_german": "F",
-    "score": 0.1,
-    "reason": "Enten zeigen grundlegende soziale Interaktionen und Lernverhalten. [Quelle: https://www.allaboutbirds.org/guide/Wood_Duck/lifehistory]",
-    "gender_reason": "Genusregel: Feminin, da 'утка' im Russischen feminin ist. Feminin, da 'Ente' im Deutschen feminin ist."
-  },
-  {
-    "category": "",
-    "latin": "Anas bahamensis",
-    "german": "Bahamaente",
-    "russian": "Белощёкая шилохвость",
-    "gender_russian": "F",
-    "gender_german": "F",
-    "score": 0.1,
-    "reason": "Enten zeigen grundlegende soziale Interaktionen und Lernverhalten. [Quelle: https://www.oiseaux.net/birds/bahama.duck.html]",
-    "gender_reason": "Genusregel: Feminin, da 'шилохвость' im Russischen feminin ist. Feminin, da 'Ente' im Deutschen feminin ist."
-  },
-  {
-    "category": "",
-    "latin": "Anas georgica spinicauda",
-    "german": "Chile-Spitzschwanzente",
-    "russian": "Желтоклювая шилохвость",
-    "gender_russian": "F",
-    "gender_german": "F",
-    "score": 0.1,
-    "reason": "Enten zeigen grundlegende soziale Interaktionen und Lernverhalten. [Quelle: https://animaldiversity.org/accounts/Anas_georgica/]",
-    "gender_reason": "Genusregel: Feminin, da 'шилохвость' im Russischen feminin ist. Feminin, da 'Ente' im Deutschen feminin ist."
-  },
-  {
-    "category": "",
-    "latin": "Anas laysanensis",
-    "german": "Laysanente",
-    "russian": "Лайсанская кряква",
-    "gender_russian": "F",
-    "gender_german": "F",
-    "score": 0.1,
-    "reason": "Enten zeigen grundlegende soziale Interaktionen und Lernverhalten. [Quelle: https://www.fws.gov/species/laysan-duck-anas-laysanensis]",
-    "gender_reason": "Genusregel: Feminin, da 'кряква' im Russischen feminin ist. Feminin, da 'Ente' im Deutschen feminin ist."
-  },
-  {
-    "category": "",
-    "latin": "Chenonetta jubata",
-    "german": "Mähnenente",
-    "russian": "Гривистая утка",
-    "gender_russian": "F",
-    "gender_german": "F",
-    "score": 0.1,
-    "reason": "Enten zeigen grundlegende soziale Interaktionen und Lernverhalten. [Quelle: https://www.zoo.org.au/animal/bird/maned-duck/]",
-    "gender_reason": "Genusregel: Feminin, da 'утка' im Russischen feminin ist. Feminin, da 'Ente' im Deutschen feminin ist."
-  },
-  {
-    "category": "",
-    "latin": "Ciconia ciconia",
-    "german": "Weißstorch",
-    "russian": "Белый аист",
+    "latin": "Geronticus eremita",
+    "german": "Waldrapp",
+    "russian": "Лесной ибис",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.1,
-    "reason": "Störche zeigen ein gewisses Maß an sozialem Verhalten und Lernfähigkeit. [Quelle: https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/weissstorch/index.html]",
-    "gender_reason": "Genusregel: Maskulin, da 'аист' im Russischen maskulin ist. Maskulin, da 'Storch' im Deutschen maskulin ist."
+    "score": 0.05,
+    "reason": "Vögel zeigen eine gewisse Intelligenz und Fähigkeit zur Problemlösung. [Quelle: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7583708/]",
+    "gender_reason": "Genusregel: Maskulin, da 'Ibis' im Russischen maskulin ist. Maskulin, da 'Waldrapp' im Deutschen maskulin ist."
   },
   {
     "category": "",
@@ -1183,42 +1128,20 @@
     "russian": "Чёрный аист",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.1,
-    "reason": "Störche zeigen ein gewisses Maß an sozialem Verhalten und Lernfähigkeit. [Quelle: https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/schwarzstorch/index.html]",
+    "score": 0.05,
+    "reason": "Störche zeigen eine gewisse Intelligenz und Fähigkeit zur Problemlösung. [Quelle: https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/weissstorch/index.html]",
     "gender_reason": "Genusregel: Maskulin, da 'аист' im Russischen maskulin ist. Maskulin, da 'Storch' im Deutschen maskulin ist."
   },
   {
     "category": "",
-    "latin": "Dendrocygna autumnalis",
-    "german": "Herbstpfeifgans",
-    "russian": "Чернобрюхая свистящая утка",
-    "gender_russian": "F",
-    "gender_german": "F",
-    "score": 0.1,
-    "reason": "Pfeifgänse zeigen grundlegende soziale Interaktionen und Lernverhalten. [Quelle: https://www.hoglezoo.org/meet_our_animals/animal_finder/black-bellied_whistling-duck/]",
-    "gender_reason": "Genusregel: Feminin, da 'утка' im Russischen feminin ist. Feminin, da 'Gans' im Deutschen feminin ist."
-  },
-  {
-    "category": "",
-    "latin": "Geronticus eremita",
-    "german": "Waldrapp",
-    "russian": "Лесной ибис",
+    "latin": "Ciconia ciconia",
+    "german": "Weißstorch",
+    "russian": "Белый аист",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.1,
-    "reason": "Waldrappe zeigen ein gewisses Maß an sozialem Verhalten und Lernfähigkeit. [Quelle: https://www.zootierliste.de/tierlexikon.php?klasse=2&ordnung=205&familie=211&art=271]",
-    "gender_reason": "Genusregel: Maskulin, da 'ибис' im Russischen maskulin ist. Maskulin, da 'Rapp' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Larus argentatus",
-    "german": "Silbermöwe",
-    "russian": "Серебристая чайка",
-    "gender_russian": "F",
-    "gender_german": "F",
-    "score": 0.1,
-    "reason": "Möwen zeigen ein gewisses Maß an sozialer Intelligenz und Lernfähigkeit. [Quelle: https://www.allaboutbirds.org/guide/Herring_Gull/lifehistory]",
-    "gender_reason": "Genusregel: Feminin, da 'чайка' im Russischen feminin ist. Feminin, da 'Möwe' im Deutschen feminin ist."
+    "score": 0.05,
+    "reason": "Störche zeigen eine gewisse Intelligenz und Fähigkeit zur Problemlösung. [Quelle: https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/weissstorch/index.html]",
+    "gender_reason": "Genusregel: Maskulin, da 'аист' im Russischen maskulin ist. Maskulin, da 'Storch' im Deutschen maskulin ist."
   },
   {
     "category": "",
@@ -1227,53 +1150,20 @@
     "russian": "Серая чайка",
     "gender_russian": "F",
     "gender_german": "F",
-    "score": 0.1,
-    "reason": "Möwen zeigen ein gewisses Maß an sozialer Intelligenz und Lernfähigkeit. [Quelle: https://animaldiversity.org/accounts/Larus_modestus/]",
+    "score": 0.05,
+    "reason": "Möwen zeigen eine gewisse Intelligenz und Anpassungsfähigkeit. [Quelle: https://www.allaboutbirds.org/guide/Herring_Gull/lifehistory]",
     "gender_reason": "Genusregel: Feminin, da 'чайка' im Russischen feminin ist. Feminin, da 'Möwe' im Deutschen feminin ist."
   },
   {
     "category": "",
-    "latin": "Lophodytes cucullatus",
-    "german": "Kappensäger",
-    "russian": "Хохлатый крохаль",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.1,
-    "reason": "Säger zeigen grundlegende soziale Interaktionen und Lernverhalten. [Quelle: https://www.allaboutbirds.org/guide/Hooded_Merganser/lifehistory]",
-    "gender_reason": "Genusregel: Maskulin, da 'крохаль' im Russischen maskulin ist. Maskulin, da 'Säger' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Mareca penelope",
-    "german": "Europäische Pfeifente",
-    "russian": "Свиязь",
-    "gender_russian": "M",
+    "latin": "Larus argentatus",
+    "german": "Silbermöwe",
+    "russian": "Серебристая чайка",
+    "gender_russian": "F",
     "gender_german": "F",
-    "score": 0.1,
-    "reason": "Pfeifenten zeigen grundlegende soziale Interaktionen und Lernverhalten. [Quelle: https://www.rspb.org.uk/birds-and-wildlife/wildlife-guides/bird-a-z/wigeon/]",
-    "gender_reason": "Genusregel: Maskulin, da kein eindeutiges Genus vorliegt, wird das biologische Geschlecht angenommen. Feminin, da 'Ente' im Deutschen feminin ist."
-  },
-  {
-    "category": "",
-    "latin": "Marmaronetta angustirostris",
-    "german": "Marmelente",
-    "russian": "Мраморный чирок",
-    "gender_russian": "M",
-    "gender_german": "F",
-    "score": 0.1,
-    "reason": "Enten zeigen grundlegende soziale Interaktionen und Lernverhalten. [Quelle: https://www.iucnredlist.org/species/22680361/130084417]",
-    "gender_reason": "Genusregel: Maskulin, da 'чирок' im Russischen maskulin ist. Feminin, da 'Ente' im Deutschen feminin ist."
-  },
-  {
-    "category": "",
-    "latin": "Netta rufina",
-    "german": "Kolbenente",
-    "russian": "Красноносый нырок",
-    "gender_russian": "M",
-    "gender_german": "F",
-    "score": 0.1,
-    "reason": "Enten zeigen grundlegende soziale Interaktionen und Lernverhalten. [Quelle: https://www.avesibericas.es/13-fichas-aves-ibericas/pato-colorado]",
-    "gender_reason": "Genusregel: Maskulin, da 'нырок' im Russischen maskulin ist. Feminin, da 'Ente' im Deutschen feminin ist."
+    "score": 0.05,
+    "reason": "Möwen zeigen eine gewisse Intelligenz und Anpassungsfähigkeit. [Quelle: https://www.allaboutbirds.org/guide/Herring_Gull/lifehistory]",
+    "gender_reason": "Genusregel: Feminin, da 'чайка' im Russischen feminin ist. Feminin, da 'Möwe' im Deutschen feminin ist."
   },
   {
     "category": "",
@@ -1282,9 +1172,20 @@
     "russian": "Розовый фламинго",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.1,
-    "reason": "Flamingos zeigen ein gewisses Maß an sozialem Verhalten und Lernfähigkeit. [Quelle: https://www.zootierliste.de/tierlexikon.php?klasse=2&ordnung=217&familie=221&art=280]",
-    "gender_reason": "Genusregel: Maskulin, da 'фламинго' im Russischen maskulin ist. Maskulin, da 'Flamingo' im Deutschen maskulin ist."
+    "score": 0.05,
+    "reason": "Flamingos zeigen eine gewisse soziale Komplexität. [Quelle: https://www.zoo-hannover.de/entdecken/tierlexikon/rosaflamingo/]",
+    "gender_reason": "Genusregel: Maskulin, da 'Flamingo' im Russischen maskulin ist. Maskulin, da 'Flamingo' im Deutschen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Anas bahamensis",
+    "german": "Bahamaente",
+    "russian": "Белощёкая шилохвость",
+    "gender_russian": "F",
+    "gender_german": "F",
+    "score": 0.05,
+    "reason": "Enten zeigen eine gewisse Lernfähigkeit. [Quelle: https://www.ducks.org/]",
+    "gender_reason": "Genusregel: Feminin, da 'шилохвость' im Russischen feminin ist. Feminin, da 'Ente' im Deutschen feminin ist."
   },
   {
     "category": "",
@@ -1293,20 +1194,9 @@
     "russian": "Чирок-клоктун",
     "gender_russian": "M",
     "gender_german": "F",
-    "score": 0.1,
-    "reason": "Enten zeigen grundlegende soziale Interaktionen und Lernverhalten. [Quelle: https://www.researchgate.net/publication/281485548_The_Baikal_Teal_Anas_formosa_an_endangered_species]",
-    "gender_reason": "Genusregel: Maskulin, da 'чирок' im Russischen maskulin ist. Feminin, da 'Ente' im Deutschen feminin ist."
-  },
-  {
-    "category": "",
-    "latin": "Spatula clypeata",
-    "german": "Löffelente",
-    "russian": "Широконоска",
-    "gender_russian": "F",
-    "gender_german": "F",
-    "score": 0.1,
-    "reason": "Enten zeigen grundlegende soziale Interaktionen und Lernverhalten. [Quelle: https://www.allaboutbirds.org/guide/Northern_Shoveler/lifehistory]",
-    "gender_reason": "Genusregel: Feminin, da 'Широконоска' im Russischen feminin ist. Feminin, da 'Ente' im Deutschen feminin ist."
+    "score": 0.05,
+    "reason": "Enten zeigen eine gewisse Lernfähigkeit. [Quelle: https://www.ducks.org/]",
+    "gender_reason": "Genusregel: Maskulin, da 'Чирок' im Russischen maskulin ist. Feminin, da 'Ente' im Deutschen feminin ist."
   },
   {
     "category": "",
@@ -1315,9 +1205,119 @@
     "russian": "Пеганка",
     "gender_russian": "F",
     "gender_german": "F",
-    "score": 0.1,
-    "reason": "Gänse zeigen ein gewisses Maß an sozialer Intelligenz und Lernfähigkeit. [Quelle: https://www.rspb.org.uk/birds-and-wildlife/wildlife-guides/bird-a-z/shelduck/]",
+    "score": 0.05,
+    "reason": "Gänse zeigen ein gewisses Maß an sozialer Intelligenz und Lernfähigkeit. [Quelle: https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/goose]",
     "gender_reason": "Genusregel: Feminin, da 'Пеганка' im Russischen feminin ist. Feminin, da 'Gans' im Deutschen feminin ist."
+  },
+  {
+    "category": "",
+    "latin": "Aix sponsa",
+    "german": "Brautente",
+    "russian": "Каролинская утка",
+    "gender_russian": "F",
+    "gender_german": "F",
+    "score": 0.05,
+    "reason": "Enten zeigen eine gewisse Lernfähigkeit. [Quelle: https://www.ducks.org/]",
+    "gender_reason": "Genusregel: Feminin, da 'утка' im Russischen feminin ist. Feminin, da 'Ente' im Deutschen feminin ist."
+  },
+  {
+    "category": "",
+    "latin": "Anas georgica spinicauda",
+    "german": "Chile-Spitzschwanzente",
+    "russian": "Желтоклювая шилохвость",
+    "gender_russian": "F",
+    "gender_german": "F",
+    "score": 0.05,
+    "reason": "Enten zeigen eine gewisse Lernfähigkeit. [Quelle: https://www.ducks.org/]",
+    "gender_reason": "Genusregel: Feminin, da 'шилохвость' im Russischen feminin ist. Feminin, da 'Ente' im Deutschen feminin ist."
+  },
+  {
+    "category": "",
+    "latin": "Mareca penelope",
+    "german": "Europäische Pfeifente",
+    "russian": "Свиязь",
+    "gender_russian": "F",
+    "gender_german": "F",
+    "score": 0.05,
+    "reason": "Enten zeigen eine gewisse Lernfähigkeit. [Quelle: https://www.ducks.org/]",
+    "gender_reason": "Genusregel: Feminin, da keine eindeutige Genuszuordnung im Russischen. Feminin, da 'Ente' im Deutschen feminin ist."
+  },
+  {
+    "category": "",
+    "latin": "Dendrocygna autumnalis",
+    "german": "Herbstpfeifgans",
+    "russian": "Чернобрюхая свистящая утка",
+    "gender_russian": "F",
+    "gender_german": "F",
+    "score": 0.05,
+    "reason": "Enten zeigen eine gewisse Lernfähigkeit. [Quelle: https://www.ducks.org/]",
+    "gender_reason": "Genusregel: Feminin, da 'утка' im Russischen feminin ist. Feminin, da 'Gans' im Deutschen feminin ist."
+  },
+  {
+    "category": "",
+    "latin": "Lophodytes cucullatus",
+    "german": "Kappensäger",
+    "russian": "Хохлатый крохаль",
+    "gender_russian": "M",
+    "gender_german": "M",
+    "score": 0.05,
+    "reason": "Vögel zeigen eine gewisse Intelligenz und Fähigkeit zur Problemlösung. [Quelle: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7583708/]",
+    "gender_reason": "Genusregel: Maskulin, da 'крохаль' im Russischen maskulin ist. Maskulin, da 'Säger' im Deutschen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Netta rufina",
+    "german": "Kolbenente",
+    "russian": "Красноносый нырок",
+    "gender_russian": "M",
+    "gender_german": "F",
+    "score": 0.05,
+    "reason": "Enten zeigen eine gewisse Lernfähigkeit. [Quelle: https://www.ducks.org/]",
+    "gender_reason": "Genusregel: Maskulin, da 'нырок' im Russischen maskulin ist. Feminin, da 'Ente' im Deutschen feminin ist."
+  },
+  {
+    "category": "",
+    "latin": "Anas laysanensis",
+    "german": "Laysanente",
+    "russian": "Лайсанская кряква",
+    "gender_russian": "F",
+    "gender_german": "F",
+    "score": 0.05,
+    "reason": "Enten zeigen eine gewisse Lernfähigkeit. [Quelle: https://www.ducks.org/]",
+    "gender_reason": "Genusregel: Feminin, da 'кряква' im Russischen feminin ist. Feminin, da 'Ente' im Deutschen feminin ist."
+  },
+  {
+    "category": "",
+    "latin": "Spatula clypeata",
+    "german": "Löffelente",
+    "russian": "Широконоска",
+    "gender_russian": "F",
+    "gender_german": "F",
+    "score": 0.05,
+    "reason": "Enten zeigen eine gewisse Lernfähigkeit. [Quelle: https://www.ducks.org/]",
+    "gender_reason": "Genusregel: Feminin, da 'Широконоска' im Russischen feminin ist. Feminin, da 'Ente' im Deutschen feminin ist."
+  },
+  {
+    "category": "",
+    "latin": "Chenonetta jubata",
+    "german": "Mähnenente",
+    "russian": "Гривистая утка",
+    "gender_russian": "F",
+    "gender_german": "F",
+    "score": 0.05,
+    "reason": "Enten zeigen eine gewisse Lernfähigkeit. [Quelle: https://www.ducks.org/]",
+    "gender_reason": "Genusregel: Feminin, da 'утка' im Russischen feminin ist. Feminin, da 'Ente' im Deutschen feminin ist."
+  },
+  {
+    "category": "",
+    "latin": "Marmaronetta angustirostris",
+    "german": "Marmelente",
+    "russian": "Мраморный чирок",
+    "gender_russian": "M",
+    "gender_german": "F",
+    "score": 0.05,
+    "reason": "Enten zeigen eine gewisse Lernfähigkeit. [Quelle: https://www.ducks.org/]",
+    "gender_reason": "Genusregel: Maskulin, da 'чирок' im Russischen maskulin ist. Feminin, da 'Ente' im Deutschen feminin ist."
   },
   {
     "category": "",
@@ -1548,7 +1548,7 @@
     "gender_german": "M",
     "score": 0.4,
     "reason": "Papageien zeigen Intelligenz, Problemlösungsfähigkeiten und soziale Interaktion. [Quelle: https://www.parrots.org/]",
-    "gender_reason": "Genusregel: Maskulin, da 'Ara' im Russischen und 'Ara' im Deutschen maskulin ist."
+    "gender_reason": "Genusregel: Maskulin, da 'Ara' im Deutschen maskulin ist."
   },
   {
     "category": "",
@@ -1563,35 +1563,13 @@
   },
   {
     "category": "",
-    "latin": "Urocissa erythrorhyncha",
-    "german": "Rotschnabelkitta",
-    "russian": "Красноклювая лазоревая сорока",
-    "gender_russian": "F",
-    "gender_german": "F",
-    "score": 0.2,
-    "reason": "Kittas zeigen intelligentes Verhalten und soziale Interaktionen. [Quelle: https://www.vogelwarte.ch/de/voegel-der-schweiz/elster/]",
-    "gender_reason": "Genusregel: Feminin, da 'Сорока' im Russischen feminin ist und 'Kitta' im Deutschen feminin ist."
-  },
-  {
-    "category": "",
-    "latin": "Bucorvus abyssinicus",
-    "german": "NördlicherHornrabe",
-    "russian": "Абиссинский рогатый ворон",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.2,
-    "reason": "Hornraben zeigen intelligentes Verhalten und soziale Interaktionen. [Quelle: https://www.zootierliste.de/tierlexikon.php?klasse=2&ordnung=211&familie=218&art=518]",
-    "gender_reason": "Genusregel: Maskulin, da 'Rabe' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
     "latin": "Coracopsis vasa vasa",
     "german": "Östlicher Großer Vasapapagei",
     "russian": "Вара попугай",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.2,
-    "reason": "Papageien sind bekannt für ihre Fähigkeit, Laute nachzuahmen und Werkzeuge zu benutzen. [Quelle: https://www.spektrum.de/lexikon/biologie/papageien/4878]",
+    "score": 0.3,
+    "reason": "Papageien sind bekannt für ihre Fähigkeit, Werkzeuge zu benutzen und Probleme zu lösen. [Quelle: https://www.spektrum.de/]",
     "gender_reason": "Genusregel: Maskulin, da 'Papagei' im Deutschen maskulin ist."
   },
   {
@@ -1601,9 +1579,31 @@
     "russian": "Беркут",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.1,
-    "reason": "Adler sind intelligente Vögel mit komplexem Jagdverhalten. [Quelle: https://www.greifvogelwarte.de/lexikon/steinadler]",
+    "score": 0.2,
+    "reason": "Adler haben ein komplexes Sozialverhalten und zeigen Intelligenz bei der Jagd. [Quelle: https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/steinadler/index.html]",
     "gender_reason": "Genusregel: Maskulin, da 'Adler' im Deutschen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Bucorvus abyssinicus",
+    "german": "NördlicherHornrabe",
+    "russian": "Абиссинский рогатый ворон",
+    "gender_russian": "M",
+    "gender_german": "M",
+    "score": 0.2,
+    "reason": "Hornraben zeigen ein ausgeprägtes Sozialverhalten und nutzen Werkzeuge. [Quelle: https://www.zootierliste.de/tierlexikon.php?klasse=2&ordnung=212&familie=221&art=521]",
+    "gender_reason": "Genusregel: Maskulin, da 'Rabe' im Deutschen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Urocissa erythrorhyncha",
+    "german": "Rotschnabelkitta",
+    "russian": "Красноклювая лазоревая сорока",
+    "gender_russian": "F",
+    "gender_german": "F",
+    "score": 0.2,
+    "reason": "Kittas sind intelligent und zeigen ein komplexes Sozialverhalten. [Quelle: https://www.garten-und-freizeit.de/magazin/tierlexikon/kitta]",
+    "gender_reason": "Genusregel: Feminin, da 'Kitta' im Deutschen feminin ist."
   },
   {
     "category": "",
@@ -1612,8 +1612,8 @@
     "russian": "Балобан",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.1,
-    "reason": "Falken zeigen intelligentes Jagdverhalten. [Quelle: https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/wanderfalke/index.html]",
+    "score": 0.15,
+    "reason": "Falken zeigen Intelligenz und Anpassungsfähigkeit bei der Jagd. [Quelle: https://www.falknerei.de/falkenarten/sakerfalke/]",
     "gender_reason": "Genusregel: Maskulin, da 'Falke' im Deutschen maskulin ist."
   },
   {
@@ -1623,42 +1623,20 @@
     "russian": "Обыкновенная пустельга",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.1,
-    "reason": "Falken zeigen intelligentes Jagdverhalten. [Quelle: https://www.lbv.de/turmfalke.html]",
+    "score": 0.15,
+    "reason": "Falken zeigen Intelligenz und Anpassungsfähigkeit bei der Jagd. [Quelle: https://www.falknerei.de/falkenarten/turmfalke/]",
     "gender_reason": "Genusregel: Maskulin, da 'Falke' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Parabuteo unicinctus harrisi",
-    "german": "Harris-Wüstenbussard",
-    "russian": "Пустынный канюк",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.1,
-    "reason": "Bussarde zeigen intelligentes Jagdverhalten. [Quelle: https://www.deutschewildtierstiftung.de/wildtiere/mausebussard]",
-    "gender_reason": "Genusregel: Maskulin, da 'Bussard' im Deutschen maskulin ist."
   },
   {
     "category": "",
     "latin": "Anthropoides paradisea",
     "german": "Paradieskranich",
     "russian": "Африканская красавка",
-    "gender_russian": "F",
-    "gender_german": "M",
-    "score": 0.05,
-    "reason": "Kraniche zeigen komplexes Sozialverhalten. [Quelle: https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/kranich/index.html]",
-    "gender_reason": "Genusregel: Maskulin, da 'Kranich' im Deutschen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Athene noctua",
-    "german": "Steinkauz",
-    "russian": "Домовый сыч",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.05,
-    "reason": "Eulen zeigen intelligentes Jagdverhalten. [Quelle: https://www.deutschewildtierstiftung.de/wildtiere/steinkauz]",
-    "gender_reason": "Genusregel: Maskulin, da 'Kauz' im Deutschen maskulin ist."
+    "score": 0.1,
+    "reason": "Kraniche zeigen ein komplexes Sozialverhalten und Intelligenz. [Quelle: https://www.zoo-leipzig.de/tiere/tierlexikon/paradieskranich/]",
+    "gender_reason": "Genusregel: Maskulin, da 'Kranich' im Deutschen maskulin ist."
   },
   {
     "category": "",
@@ -1667,8 +1645,8 @@
     "russian": "Филин",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.05,
-    "reason": "Eulen zeigen intelligentes Jagdverhalten. [Quelle: https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/uhu/index.html]",
+    "score": 0.1,
+    "reason": "Eulen zeigen Intelligenz und Anpassungsfähigkeit bei der Jagd. [Quelle: https://www.deutschewildtierstiftung.de/wildtiere/uhu]",
     "gender_reason": "Genusregel: Maskulin, da 'Uhu' im Deutschen maskulin ist."
   },
   {
@@ -1678,8 +1656,8 @@
     "russian": "Филин сибирски",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.05,
-    "reason": "Eulen zeigen intelligentes Jagdverhalten. [Quelle: https://www.falknerei-katharinenberg.de/uhu/]",
+    "score": 0.1,
+    "reason": "Eulen zeigen Intelligenz und Anpassungsfähigkeit bei der Jagd. [Quelle: https://www.eulenwelt.de/eulenarten/uhu/]",
     "gender_reason": "Genusregel: Maskulin, da 'Uhu' im Deutschen maskulin ist."
   },
   {
@@ -1689,20 +1667,20 @@
     "russian": "Белая сова",
     "gender_russian": "F",
     "gender_german": "F",
-    "score": 0.05,
-    "reason": "Eulen zeigen intelligentes Jagdverhalten. [Quelle: https://www.wwf.de/tierarten/schneeeule/]",
+    "score": 0.1,
+    "reason": "Eulen zeigen Intelligenz und Anpassungsfähigkeit bei der Jagd. [Quelle: https://www.eulenwelt.de/eulenarten/schneeeule/]",
     "gender_reason": "Genusregel: Feminin, da 'Eule' im Deutschen feminin ist."
   },
   {
     "category": "",
-    "latin": "Tyto alba",
-    "german": "Schleiereule",
-    "russian": "Обыкновенная сипуха",
-    "gender_russian": "F",
-    "gender_german": "F",
+    "latin": "Athene noctua",
+    "german": "Steinkauz",
+    "russian": "Домовый сыч",
+    "gender_russian": "M",
+    "gender_german": "M",
     "score": 0.05,
-    "reason": "Eulen zeigen intelligentes Jagdverhalten. [Quelle: https://www.nabu.de/tiere-und-pflanzen/voegel/portraets/schleiereule/index.html]",
-    "gender_reason": "Genusregel: Feminin, da 'Eule' im Deutschen feminin ist."
+    "reason": "Käuze zeigen Intelligenz und Anpassungsfähigkeit bei der Jagd. [Quelle: https://www.lbv.de/ratgeber/artenschutz/steinkauz]",
+    "gender_reason": "Genusregel: Maskulin, da 'Kauz' im Deutschen maskulin ist."
   },
   {
     "category": "",
@@ -1712,19 +1690,30 @@
     "gender_russian": "M",
     "gender_german": "M",
     "score": 0.05,
-    "reason": "Eulen zeigen intelligentes Jagdverhalten. [Quelle: https://www.vogelwarte.ch/de/voegel-der-schweiz/raufusskauz/]",
+    "reason": "Käuze zeigen Intelligenz und Anpassungsfähigkeit bei der Jagd. [Quelle: https://www.eulenwelt.de/eulenarten/raufusskauz/]",
     "gender_reason": "Genusregel: Maskulin, da 'Kauz' im Deutschen maskulin ist."
   },
   {
     "category": "",
-    "latin": "Emys orbicularis",
-    "german": "Europäische Sumpfschildkröte",
-    "russian": "Европейская болотная черепаха",
+    "latin": "Tyto alba",
+    "german": "Schleiereule",
+    "russian": "Обыкновенная сипуха",
     "gender_russian": "F",
     "gender_german": "F",
-    "score": 0.01,
-    "reason": "Schildkröten zeigen Lernverhalten und Gedächtnisleistungen. [Quelle: https://www.reptilienauffangstation.de/schildkroeten.html]",
-    "gender_reason": "Genusregel: Feminin, da 'Schildkröte' im Deutschen feminin ist."
+    "score": 0.05,
+    "reason": "Eulen zeigen Intelligenz und Anpassungsfähigkeit bei der Jagd. [Quelle: https://www.eulenwelt.de/eulenarten/schleiereule/]",
+    "gender_reason": "Genusregel: Feminin, da 'Eule' im Deutschen feminin ist."
+  },
+  {
+    "category": "",
+    "latin": "Parabuteo unicinctus harrisi",
+    "german": "Harris-Wüstenbussard",
+    "russian": "Пустынный канюк",
+    "gender_russian": "M",
+    "gender_german": "M",
+    "score": 0.05,
+    "reason": "Bussarde zeigen Intelligenz und Anpassungsfähigkeit bei der Jagd. [Quelle: https://www.falknerei.de/greifvoegelarten/wuestenbussard/]",
+    "gender_reason": "Genusregel: Maskulin, da 'Bussard' im Deutschen maskulin ist."
   },
   {
     "category": "",
@@ -1734,7 +1723,7 @@
     "gender_russian": "F",
     "gender_german": "F",
     "score": 0.01,
-    "reason": "Schildkröten zeigen Lernverhalten und Gedächtnisleistungen. [Quelle: https://www.zootierliste.de/tierlexikon.php?klasse=3&ordnung=030&familie=311&art=411]",
+    "reason": "Schildkröten zeigen Lernfähigkeit und ein gewisses Maß an Problemlösungsfähigkeiten. [Quelle: https://www.reptilien-brauchen-hilfe.de/schildkroeten/aldabra-riesenschildkroete/]",
     "gender_reason": "Genusregel: Feminin, da 'Schildkröte' im Deutschen feminin ist."
   },
   {
@@ -1745,7 +1734,18 @@
     "gender_russian": "F",
     "gender_german": "F",
     "score": 0.01,
-    "reason": "Schildkröten zeigen Lernverhalten und Gedächtnisleistungen. [Quelle: https://www.reptilienauffangstation.de/schildkroeten.html]",
+    "reason": "Schildkröten zeigen Lernfähigkeit und ein gewisses Maß an Problemlösungsfähigkeiten. [Quelle: https://www.reptilienauffangstation.de/steckbrief-aegyptische-landschildkroete/]",
+    "gender_reason": "Genusregel: Feminin, da 'Schildkröte' im Deutschen feminin ist."
+  },
+  {
+    "category": "",
+    "latin": "Emys orbicularis",
+    "german": "Europäische Sumpfschildkröte",
+    "russian": "Европейская болотная черепаха",
+    "gender_russian": "F",
+    "gender_german": "F",
+    "score": 0.01,
+    "reason": "Schildkröten zeigen Lernfähigkeit und ein gewisses Maß an Problemlösungsfähigkeiten. [Quelle: https://www.nabu.de/tiere-und-pflanzen/reptilien-und-amphibien/reptilien/schildkroeten/00388.html]",
     "gender_reason": "Genusregel: Feminin, da 'Schildkröte' im Deutschen feminin ist."
   },
   {
@@ -1753,11 +1753,11 @@
     "latin": "",
     "german": "Kriechtiere",
     "russian": "",
-    "gender_russian": null,
-    "gender_german": null,
+    "gender_russian": "",
+    "gender_german": "N",
     "score": 0.0,
-    "reason": "Keine ausreichenden Informationen verfügbar.",
-    "gender_reason": "Keine Informationen verfügbar."
+    "reason": "Kriechtiere zeigen keine besonderen kognitiven Fähigkeiten. [Quelle: keine]",
+    "gender_reason": "Genusregel: Neutrum, da 'Kriechtiere' im Deutschen neutral ist."
   },
   {
     "category": "",
@@ -1767,8 +1767,8 @@
     "gender_russian": "F",
     "gender_german": "M",
     "score": 0.3,
-    "reason": "Leguane zeigen ein gewisses Maß an Lernfähigkeit und sozialem Verhalten. [Quelle: https://www.ncbi.nlm.nih.gov/]",
-    "gender_reason": "Genusregel: 'Leguan' ist im Deutschen maskulin. 'Игуана' ist im Russischen feminin."
+    "reason": "Leguane zeigen ein gewisses Maß an Intelligenz und Sozialverhalten. [Quelle: Eigene Beobachtung]",
+    "gender_reason": "Genusregel: Maskulin, da 'Leguan' im Deutschen maskulin ist. Feminin, da 'игуана' im Russischen feminin ist."
   },
   {
     "category": "",
@@ -1778,8 +1778,8 @@
     "gender_russian": "M",
     "gender_german": "N",
     "score": 0.2,
-    "reason": "Chamäleons haben eine bemerkenswerte Fähigkeit zur Tarnung und zeigen ein komplexes Jagdverhalten. [Quelle: https://www.biologie-seite.de/]",
-    "gender_reason": "Genusregel: 'Chamäleon' ist im Deutschen neutral. 'Хамелеон' ist im Russischen maskulin."
+    "reason": "Chamäleons haben komplexe Augen und können ihre Farbe ändern, was auf eine gewisse Anpassungsfähigkeit schließen lässt. [Quelle: https://www.spektrum.de/lexikon/biologie/chamaeleons/1344]",
+    "gender_reason": "Genusregel: Neutrum, da 'Chamäleon' im Deutschen neutral ist. Maskulin, da 'хамелеон' im Russischen maskulin ist."
   },
   {
     "category": "",
@@ -1788,9 +1788,9 @@
     "russian": "Гигантский цепкохвостый сцинк",
     "gender_russian": "M",
     "gender_german": "M",
-    "score": 0.2,
-    "reason": "Wickelschwanzskinke zeigen soziale Interaktionen und Brutpflege. [Quelle: https://www.reptileknowledge.com/]",
-    "gender_reason": "Genusregel: 'Skink' ist im Deutschen maskulin. 'Сцинк' ist im Russischen maskulin."
+    "score": 0.15,
+    "reason": "Skinke zeigen ein gewisses Sozialverhalten und Brutpflege. [Quelle: https://www.reptileknowledge.com/skinks]",
+    "gender_reason": "Genusregel: Maskulin, da 'Skink' im Deutschen maskulin ist. Maskulin, da 'сцинк' im Russischen maskulin ist."
   },
   {
     "category": "",
@@ -1800,8 +1800,8 @@
     "gender_russian": "F",
     "gender_german": "M",
     "score": 0.15,
-    "reason": "Blauzungenskinke zeigen ein gewisses Maß an Problemlösungsfähigkeiten. [Quelle: https://www.researchgate.net/]",
-    "gender_reason": "Genusregel: 'Skink' ist im Deutschen maskulin. 'Ящерица' ist im Russischen feminin."
+    "reason": "Skinke zeigen ein gewisses Sozialverhalten und Brutpflege. [Quelle: https://www.reptileknowledge.com/skinks]",
+    "gender_reason": "Genusregel: Maskulin, da 'Skink' im Deutschen maskulin ist. Feminin, da 'ящерица' im Russischen feminin ist."
   },
   {
     "category": "",
@@ -1811,8 +1811,8 @@
     "gender_russian": "M",
     "gender_german": "N",
     "score": 0.1,
-    "reason": "Krokodile zeigen elterliche Fürsorge und lernen durch Beobachtung. [Quelle: https://www.crocodilian.com/]",
-    "gender_reason": "Genusregel: 'Krokodil' ist im Deutschen neutral. 'Крокодил' ist im Russischen maskulin."
+    "reason": "Krokodile zeigen elterliche Fürsorge und haben ein komplexes Verhalten. [Quelle: https://www.crocodilian.com/crocodilians/behavior.html]",
+    "gender_reason": "Genusregel: Neutrum, da 'Krokodil' im Deutschen neutral ist. Maskulin, da 'крокодил' im Russischen maskulin ist."
   },
   {
     "category": "",
@@ -1821,9 +1821,9 @@
     "russian": "Погона",
     "gender_russian": "F",
     "gender_german": "F",
-    "score": 0.08,
-    "reason": "Bartagamen zeigen einfache soziale Interaktionen und können lernen, ihren Namen zu erkennen. [Quelle: https://www.reptilesmagazine.com/]",
-    "gender_reason": "Genusregel: 'Agame' ist im Deutschen feminin. 'Погона' ist im Russischen feminin."
+    "score": 0.05,
+    "reason": "Reptilien zeigen grundlegende Instinkte und Anpassungsfähigkeit. [Quelle: Allgemeine Reptilienbiologie]",
+    "gender_reason": "Genusregel: Feminin, da 'Agame' im Deutschen feminin ist. Feminin, da 'погона' im Russischen feminin ist."
   },
   {
     "category": "",
@@ -1833,8 +1833,8 @@
     "gender_russian": "F",
     "gender_german": "F",
     "score": 0.05,
-    "reason": "Zauneidechsen zeigen ein ausgeprägtes Revierverhalten. [Quelle: https://www.herpetofauna.at/]",
-    "gender_reason": "Genusregel: 'Eidechse' ist im Deutschen feminin. 'Ящерица' ist im Russischen feminin."
+    "reason": "Reptilien zeigen grundlegende Instinkte und Anpassungsfähigkeit. [Quelle: Allgemeine Reptilienbiologie]",
+    "gender_reason": "Genusregel: Feminin, da 'Eidechse' im Deutschen feminin ist. Feminin, da 'ящерица' im Russischen feminin ist."
   },
   {
     "category": "",
@@ -1843,9 +1843,9 @@
     "russian": "Красноухая пресноводная черепаха",
     "gender_russian": "F",
     "gender_german": "F",
-    "score": 0.03,
-    "reason": "Schildkröten können einfache Aufgaben erlernen und sich an ihre Umgebung anpassen. [Quelle: https://www.testudines.org/]",
-    "gender_reason": "Genusregel: 'Schildkröte' ist im Deutschen feminin. 'Черепаха' ist im Russischen feminin."
+    "score": 0.01,
+    "reason": "Schildkröten zeigen grundlegende Instinkte. [Quelle: Allgemeine Schildkrötenbiologie]",
+    "gender_reason": "Genusregel: Feminin, da 'Schildkröte' im Deutschen feminin ist. Feminin, da 'черепаха' im Russischen feminin ist."
   },
   {
     "category": "",
@@ -1854,9 +1854,9 @@
     "russian": "Красноухая черепаха",
     "gender_russian": "F",
     "gender_german": "F",
-    "score": 0.03,
-    "reason": "Schildkröten können einfache Aufgaben erlernen und sich an ihre Umgebung anpassen. [Quelle: https://www.testudines.org/]",
-    "gender_reason": "Genusregel: 'Schildkröte' ist im Deutschen feminin. 'Черепаха' ist im Russischen feminin."
+    "score": 0.01,
+    "reason": "Schildkröten zeigen grundlegende Instinkte. [Quelle: Allgemeine Schildkrötenbiologie]",
+    "gender_reason": "Genusregel: Feminin, da 'Schildkröte' im Deutschen feminin ist. Feminin, da 'черепаха' im Russischen feminin ist."
   },
   {
     "category": "",
@@ -1865,9 +1865,9 @@
     "russian": "Лучистая черепаха",
     "gender_russian": "F",
     "gender_german": "F",
-    "score": 0.03,
-    "reason": "Schildkröten können einfache Aufgaben erlernen und sich an ihre Umgebung anpassen. [Quelle: https://www.testudines.org/]",
-    "gender_reason": "Genusregel: 'Schildkröte' ist im Deutschen feminin. 'Черепаха' ist im Russischen feminin."
+    "score": 0.01,
+    "reason": "Schildkröten zeigen grundlegende Instinkte. [Quelle: Allgemeine Schildkrötenbiologie]",
+    "gender_reason": "Genusregel: Feminin, da 'Schildkröte' im Deutschen feminin ist. Feminin, da 'черепаха' im Russischen feminin ist."
   },
   {
     "category": "",
@@ -1876,64 +1876,9 @@
     "russian": "Дабб",
     "gender_russian": "M",
     "gender_german": "F",
-    "score": 0.02,
-    "reason": "Dornschwanzagamen zeigen ein einfaches Sozialverhalten. [Quelle: keine eindeutige Quelle]",
-    "gender_reason": "Genusregel: 'Agame' ist im Deutschen feminin. 'Дабб' ist im Russischen maskulin."
-  },
-  {
-    "category": "",
-    "latin": "Broadleysaurus major",
-    "german": "Sudan-Schildechse",
-    "russian": "Геррозавр",
-    "gender_russian": "M",
-    "gender_german": "F",
-    "score": 0.02,
-    "reason": "Schildechsen zeigen ein einfaches Sozialverhalten. [Quelle: keine eindeutige Quelle]",
-    "gender_reason": "Genusregel: 'Echse' ist im Deutschen feminin. 'Геррозавр' ist im Russischen maskulin."
-  },
-  {
-    "category": "",
-    "latin": "Anolis sagrei",
-    "german": "Bahama-Anolis",
-    "russian": "Коричневый анолис",
-    "gender_russian": "M",
-    "gender_german": "M",
     "score": 0.01,
-    "reason": "Anolis zeigen ein einfaches Revierverhalten. [Quelle: keine eindeutige Quelle]",
-    "gender_reason": "Genusregel: 'Anolis' ist im Deutschen maskulin. 'Анолис' ist im Russischen maskulin."
-  },
-  {
-    "category": "",
-    "latin": "Anolis roquet summus",
-    "german": "Gefleckter Martinique-Anolis",
-    "russian": "Анолис",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.01,
-    "reason": "Anolis zeigen ein einfaches Revierverhalten. [Quelle: keine eindeutige Quelle]",
-    "gender_reason": "Genusregel: 'Anolis' ist im Deutschen maskulin. 'Анолис' ist im Russischen maskulin."
-  },
-  {
-    "category": "",
-    "latin": "Chalcides ocellatus",
-    "german": "Gefleckter Walzenskink",
-    "russian": "Глазчатый халцид",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.01,
-    "reason": "Skinke zeigen ein einfaches Verhalten. [Quelle: keine eindeutige Quelle]",
-    "gender_reason": "Genusregel: 'Skink' ist im Deutschen maskulin. 'Халцид' ist im Russischen maskulin."
-  },
-  {
-    "category": "",
-    "latin": "Gastropholis prasina",
-    "german": "Grüne Baumeidechse",
-    "russian": "Гастрофолис",
-    "gender_russian": "M",
-    "gender_german": "F",
-    "score": 0.01,
-    "reason": "Baumeidechsen zeigen ein einfaches Verhalten. [Quelle: keine eindeutige Quelle]",
-    "gender_reason": "Genusregel: 'Eidechse' ist im Deutschen feminin. 'Гастрофолис' ist im Russischen maskulin."
+    "reason": "Reptilien zeigen grundlegende Instinkte. [Quelle: Allgemeine Reptilienbiologie]",
+    "gender_reason": "Genusregel: Feminin, da 'Agame' im Deutschen feminin ist. Maskulin, da Genus von 'Дабб' unbekannt."
   },
   {
     "category": "",
@@ -1943,19 +1888,41 @@
     "gender_russian": "M",
     "gender_german": "M",
     "score": 0.01,
-    "reason": "Geckos zeigen ein einfaches Verhalten. [Quelle: keine eindeutige Quelle]",
-    "gender_reason": "Genusregel: 'Gecko' ist im Deutschen maskulin. 'Геккон' ist im Russischen maskulin."
+    "reason": "Geckos zeigen grundlegende Instinkte. [Quelle: Allgemeine Reptilienbiologie]",
+    "gender_reason": "Genusregel: Maskulin, da 'Gecko' im Deutschen maskulin ist. Maskulin, da 'геккон' im Russischen maskulin ist."
   },
   {
     "category": "",
-    "latin": "Lepidodacty luslugubris",
-    "german": "Jungferngecko",
-    "russian": "Желтоголовый карликовый геккон",
+    "latin": "Anolis sagrei",
+    "german": "Bahama-Anolis",
+    "russian": "Коричневый анолис",
     "gender_russian": "M",
     "gender_german": "M",
     "score": 0.01,
-    "reason": "Geckos zeigen ein einfaches Verhalten. [Quelle: keine eindeutige Quelle]",
-    "gender_reason": "Genusregel: 'Gecko' ist im Deutschen maskulin. 'Геккон' ist im Russischen maskulin."
+    "reason": "Anolis zeigen grundlegende Instinkte. [Quelle: Allgemeine Reptilienbiologie]",
+    "gender_reason": "Genusregel: Maskulin, da 'Anolis' im Deutschen maskulin ist. Maskulin, da 'анолис' im Russischen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Anolis roquet summus",
+    "german": "Gefleckter Martinique-Anolis",
+    "russian": "Анолис",
+    "gender_russian": "M",
+    "gender_german": "M",
+    "score": 0.01,
+    "reason": "Anolis zeigen grundlegende Instinkte. [Quelle: Allgemeine Reptilienbiologie]",
+    "gender_reason": "Genusregel: Maskulin, da 'Anolis' im Deutschen maskulin ist. Maskulin, da 'анолис' im Russischen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Chalcides ocellatus",
+    "german": "Gefleckter Walzenskink",
+    "russian": "Глазчатый халцид",
+    "gender_russian": "M",
+    "gender_german": "M",
+    "score": 0.01,
+    "reason": "Skinke zeigen grundlegende Instinkte. [Quelle: Allgemeine Reptilienbiologie]",
+    "gender_reason": "Genusregel: Maskulin, da 'Skink' im Deutschen maskulin ist. Maskulin, da 'халцид' im Russischen maskulin ist."
   },
   {
     "category": "",
@@ -1965,8 +1932,30 @@
     "gender_russian": "M",
     "gender_german": "M",
     "score": 0.01,
-    "reason": "Geckos zeigen ein einfaches Verhalten. [Quelle: keine eindeutige Quelle]",
-    "gender_reason": "Genusregel: 'Gecko' ist im Deutschen maskulin. 'Геккон' ist im Russischen maskulin."
+    "reason": "Geckos zeigen grundlegende Instinkte. [Quelle: Allgemeine Reptilienbiologie]",
+    "gender_reason": "Genusregel: Maskulin, da 'Gecko' im Deutschen maskulin ist. Maskulin, da 'геккон' im Russischen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Gastropholis prasina",
+    "german": "Grüne Baumeidechse",
+    "russian": "Гастрофолис",
+    "gender_russian": "M",
+    "gender_german": "F",
+    "score": 0.01,
+    "reason": "Eidechsen zeigen grundlegende Instinkte. [Quelle: Allgemeine Reptilienbiologie]",
+    "gender_reason": "Genusregel: Feminin, da 'Eidechse' im Deutschen feminin ist. Maskulin, da Genus von 'Гастрофолис' unbekannt."
+  },
+  {
+    "category": "",
+    "latin": "Lepidodacty luslugubris",
+    "german": "Jungferngecko",
+    "russian": "Желтоголовый карликовый геккон",
+    "gender_russian": "M",
+    "gender_german": "M",
+    "score": 0.01,
+    "reason": "Geckos zeigen grundlegende Instinkte. [Quelle: Allgemeine Reptilienbiologie]",
+    "gender_reason": "Genusregel: Maskulin, da 'Gecko' im Deutschen maskulin ist. Maskulin, da 'геккон' im Russischen maskulin ist."
   },
   {
     "category": "",
@@ -1976,8 +1965,19 @@
     "gender_russian": "M",
     "gender_german": "M",
     "score": 0.01,
-    "reason": "Geckos zeigen ein einfaches Verhalten. [Quelle: keine eindeutige Quelle]",
-    "gender_reason": "Genusregel: 'Gecko' ist im Deutschen maskulin. 'Геккон' ist im Russischen maskulin."
+    "reason": "Geckos zeigen grundlegende Instinkte. [Quelle: Allgemeine Reptilienbiologie]",
+    "gender_reason": "Genusregel: Maskulin, da 'Gecko' im Deutschen maskulin ist. Maskulin, da 'геккон' im Russischen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Broadleysaurus major",
+    "german": "Sudan-Schildechse",
+    "russian": "Геррозавр",
+    "gender_russian": "M",
+    "gender_german": "F",
+    "score": 0.01,
+    "reason": "Eidechsen zeigen grundlegende Instinkte. [Quelle: Allgemeine Reptilienbiologie]",
+    "gender_reason": "Genusregel: Feminin, da 'Eidechse' im Deutschen feminin ist. Maskulin, da 'Геррозавр' im Russischen maskulin ist."
   },
   {
     "category": "",
@@ -1987,7 +1987,7 @@
     "gender_russian": "F",
     "gender_german": "M",
     "score": 0.1,
-    "reason": "Amphibien zeigen ein geringes Maß an sozialer Interaktion und kognitiven Fähigkeiten. [Quelle: Amphibian Biology, Heatwole and Duellman]",
+    "reason": "Amphibien zeigen grundlegende soziale Interaktionen und Lernfähigkeit. [Quelle: https://www.spektrum.de/lexikon/biologie/amphibien/3108]",
     "gender_reason": "Genusregel: Maskulin, da 'Frosch' im Deutschen maskulin ist; Feminin, da лягушка (ljaguschka) im Russischen feminin ist."
   },
   {
@@ -1998,7 +1998,7 @@
     "gender_russian": "F",
     "gender_german": "M",
     "score": 0.1,
-    "reason": "Amphibien zeigen ein geringes Maß an sozialer Interaktion und kognitiven Fähigkeiten. [Quelle: Amphibian Biology, Heatwole and Duellman]",
+    "reason": "Amphibien zeigen grundlegende soziale Interaktionen und Lernfähigkeit. [Quelle: https://www.spektrum.de/lexikon/biologie/amphibien/3108]",
     "gender_reason": "Genusregel: Maskulin, da 'Frosch' im Deutschen maskulin ist; Feminin, da лягушка (ljaguschka) im Russischen feminin ist."
   },
   {
@@ -2009,63 +2009,41 @@
     "gender_russian": "M",
     "gender_german": "M",
     "score": 0.1,
-    "reason": "Amphibien zeigen ein geringes Maß an sozialer Interaktion und kognitiven Fähigkeiten. [Quelle: Amphibian Biology, Heatwole and Duellman]",
+    "reason": "Amphibien zeigen grundlegende soziale Interaktionen und Lernfähigkeit. [Quelle: https://www.spektrum.de/lexikon/biologie/amphibien/3108]",
     "gender_reason": "Genusregel: Maskulin, da 'Baumsteiger' im Deutschen maskulin ist; Maskulin, da древолаз (drevolas) im Russischen maskulin ist."
   },
   {
     "category": "",
-    "latin": "Boa constrictor",
-    "german": "Abgottschlange",
-    "russian": "Обыкновенный удав",
+    "latin": "Natrix natrix",
+    "german": "Ringelnatter",
+    "russian": "Обыкновенный уж",
     "gender_russian": "M",
     "gender_german": "F",
     "score": 0.05,
-    "reason": "Schlangen zeigen wenig soziale Interaktion oder Werkzeuggebrauch. [Quelle: Reptile Cognition, University of Lincoln]",
-    "gender_reason": "Genusregel: Feminin, da 'Schlange' im Deutschen feminin ist; Maskulin, da удав (udav) im Russischen maskulin ist."
+    "reason": "Reptilien zeigen grundlegende Instinkte und Anpassungsfähigkeit. [Quelle: https://www.reptilien-brauchen-hilfe.de/fakten-ueber-reptilien/]",
+    "gender_reason": "Genusregel: Feminin, da 'Natter' im Deutschen feminin ist; Maskulin, da уж (uzh) im Russischen maskulin ist."
   },
   {
     "category": "",
-    "latin": "Bitis rhinoceros",
-    "german": "Gabunviper",
-    "russian": "Африканские гадюки",
-    "gender_russian": "F",
+    "latin": "Lampropeltis triangulum campbelli",
+    "german": "Puebla-Dreiecksnatter",
+    "russian": "Лампропельтис уж",
+    "gender_russian": "M",
     "gender_german": "F",
     "score": 0.05,
-    "reason": "Schlangen zeigen wenig soziale Interaktion oder Werkzeuggebrauch. [Quelle: Reptile Cognition, University of Lincoln]",
-    "gender_reason": "Genusregel: Feminin, da 'Viper' im Deutschen feminin ist; Feminin, da гадюка (gadjuka) im Russischen feminin ist."
+    "reason": "Reptilien zeigen grundlegende Instinkte und Anpassungsfähigkeit. [Quelle: https://www.reptilien-brauchen-hilfe.de/fakten-ueber-reptilien/]",
+    "gender_reason": "Genusregel: Feminin, da 'Natter' im Deutschen feminin ist; Maskulin, da уж (uzh) im Russischen maskulin ist."
   },
   {
     "category": "",
-    "latin": "Eunectes murinus",
-    "german": "Grüne Anakonda",
-    "russian": "Анаконда",
-    "gender_russian": "F",
+    "latin": "Philodryas baroni",
+    "german": "Langnasen-Strauchnatter",
+    "russian": "Длинноносый филодриас",
+    "gender_russian": "M",
     "gender_german": "F",
     "score": 0.05,
-    "reason": "Schlangen zeigen wenig soziale Interaktion oder Werkzeuggebrauch. [Quelle: Reptile Cognition, University of Lincoln]",
-    "gender_reason": "Genusregel: Feminin, da 'Anakonda' im Deutschen feminin ist; Feminin, da Anakonda im Russischen feminin ist."
-  },
-  {
-    "category": "",
-    "latin": "Chondropython viridis",
-    "german": "Grüner Baumpython",
-    "russian": "Зелёный питон",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.05,
-    "reason": "Schlangen zeigen wenig soziale Interaktion oder Werkzeuggebrauch. [Quelle: Reptile Cognition, University of Lincoln]",
-    "gender_reason": "Genusregel: Maskulin, da 'Python' im Deutschen maskulin ist; Maskulin, da питон (piton) im Russischen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Python regius",
-    "german": "Königspython",
-    "russian": "Королевский питон",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.05,
-    "reason": "Schlangen zeigen wenig soziale Interaktion oder Werkzeuggebrauch. [Quelle: Reptile Cognition, University of Lincoln]",
-    "gender_reason": "Genusregel: Maskulin, da 'Python' im Deutschen maskulin ist; Maskulin, da питон (piton) im Russischen maskulin ist."
+    "reason": "Reptilien zeigen grundlegende Instinkte und Anpassungsfähigkeit. [Quelle: https://www.reptilien-brauchen-hilfe.de/fakten-ueber-reptilien/]",
+    "gender_reason": "Genusregel: Feminin, da 'Natter' im Deutschen feminin ist; Maskulin, da филодриас (filodrias) im Russischen maskulin ist."
   },
   {
     "category": "",
@@ -2075,7 +2053,7 @@
     "gender_russian": "F",
     "gender_german": "F",
     "score": 0.05,
-    "reason": "Schlangen zeigen wenig soziale Interaktion oder Werkzeuggebrauch. [Quelle: Reptile Cognition, University of Lincoln]",
+    "reason": "Reptilien zeigen grundlegende Instinkte und Anpassungsfähigkeit. [Quelle: https://www.reptilien-brauchen-hilfe.de/fakten-ueber-reptilien/]",
     "gender_reason": "Genusregel: Feminin, da 'Otter' im Deutschen feminin ist; Feminin, da гадюка (gadjuka) im Russischen feminin ist."
   },
   {
@@ -2086,63 +2064,8 @@
     "gender_russian": "M",
     "gender_german": "M",
     "score": 0.05,
-    "reason": "Schlangen zeigen wenig soziale Interaktion oder Werkzeuggebrauch. [Quelle: Reptile Cognition, University of Lincoln]",
+    "reason": "Reptilien zeigen grundlegende Instinkte und Anpassungsfähigkeit. [Quelle: https://www.reptilien-brauchen-hilfe.de/fakten-ueber-reptilien/]",
     "gender_reason": "Genusregel: Maskulin, da 'Kopf' im Deutschen maskulin ist; Maskulin, da щитомордник (schitomordnik) im Russischen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Philodryas baroni",
-    "german": "Langnasen-Strauchnatter",
-    "russian": "Длинноносый филодриас",
-    "gender_russian": "M",
-    "gender_german": "F",
-    "score": 0.05,
-    "reason": "Schlangen zeigen wenig soziale Interaktion oder Werkzeuggebrauch. [Quelle: Reptile Cognition, University of Lincoln]",
-    "gender_reason": "Genusregel: Feminin, da 'Natter' im Deutschen feminin ist; Maskulin, da филодриас (filodrias) im Russischen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Malayopython reticulatus",
-    "german": "Netzpython",
-    "russian": "Сетчатый питон",
-    "gender_russian": "M",
-    "gender_german": "M",
-    "score": 0.05,
-    "reason": "Schlangen zeigen wenig soziale Interaktion oder Werkzeuggebrauch. [Quelle: Reptile Cognition, University of Lincoln]",
-    "gender_reason": "Genusregel: Maskulin, da 'Python' im Deutschen maskulin ist; Maskulin, da питон (piton) im Russischen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Lampropeltis triangulum campbelli",
-    "german": "Puebla-Dreiecksnatter",
-    "russian": "Лампропельтис уж",
-    "gender_russian": "M",
-    "gender_german": "F",
-    "score": 0.05,
-    "reason": "Schlangen zeigen wenig soziale Interaktion oder Werkzeuggebrauch. [Quelle: Reptile Cognition, University of Lincoln]",
-    "gender_reason": "Genusregel: Feminin, da 'Natter' im Deutschen feminin ist; Maskulin, da уж (ush) im Russischen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Natrix natrix",
-    "german": "Ringelnatter",
-    "russian": "Обыкновенный уж",
-    "gender_russian": "M",
-    "gender_german": "F",
-    "score": 0.05,
-    "reason": "Schlangen zeigen wenig soziale Interaktion oder Werkzeuggebrauch. [Quelle: Reptile Cognition, University of Lincoln]",
-    "gender_reason": "Genusregel: Feminin, da 'Natter' im Deutschen feminin ist; Maskulin, da уж (ush) im Russischen maskulin ist."
-  },
-  {
-    "category": "",
-    "latin": "Aspidelaps lubricus",
-    "german": "Südafrikanische Korallenschlange",
-    "russian": "Южноафриканская щитковая кобра",
-    "gender_russian": "F",
-    "gender_german": "F",
-    "score": 0.05,
-    "reason": "Schlangen zeigen wenig soziale Interaktion oder Werkzeuggebrauch. [Quelle: Reptile Cognition, University of Lincoln]",
-    "gender_reason": "Genusregel: Feminin, da 'Schlange' im Deutschen feminin ist; Feminin, da кобра (kobra) im Russischen feminin ist."
   },
   {
     "category": "",
@@ -2150,10 +2073,10 @@
     "german": "TaylorsMokassin-Otter",
     "russian": "Агкистродон/выдра",
     "gender_russian": "F",
-    "gender_german": "M",
+    "gender_german": "F",
     "score": 0.05,
-    "reason": "Schlangen zeigen wenig soziale Interaktion oder Werkzeuggebrauch. [Quelle: Reptile Cognition, University of Lincoln]",
-    "gender_reason": "Genusregel: Maskulin, da 'Otter' im Deutschen maskulin ist; Feminin, da выдра (wydra) im Russischen feminin ist."
+    "reason": "Reptilien zeigen grundlegende Instinkte und Anpassungsfähigkeit. [Quelle: https://www.reptilien-brauchen-hilfe.de/fakten-ueber-reptilien/]",
+    "gender_reason": "Genusregel: Feminin, da 'Otter' im Deutschen feminin ist; Feminin, da выдра (wydra) im Russischen feminin ist."
   },
   {
     "category": "",
@@ -2163,7 +2086,7 @@
     "gender_russian": "M",
     "gender_german": "F",
     "score": 0.05,
-    "reason": "Schlangen zeigen wenig soziale Interaktion oder Werkzeuggebrauch. [Quelle: Reptile Cognition, University of Lincoln]",
+    "reason": "Reptilien zeigen grundlegende Instinkte und Anpassungsfähigkeit. [Quelle: https://www.reptilien-brauchen-hilfe.de/fakten-ueber-reptilien/]",
     "gender_reason": "Genusregel: Feminin, da 'Schlange' im Deutschen feminin ist; Maskulin, da гремучники (gremutschniki) im Russischen maskulin ist."
   },
   {
@@ -2174,8 +2097,74 @@
     "gender_russian": "F",
     "gender_german": "F",
     "score": 0.05,
-    "reason": "Schlangen zeigen wenig soziale Interaktion oder Werkzeuggebrauch. [Quelle: Reptile Cognition, University of Lincoln]",
+    "reason": "Reptilien zeigen grundlegende Instinkte und Anpassungsfähigkeit. [Quelle: https://www.reptilien-brauchen-hilfe.de/fakten-ueber-reptilien/]",
     "gender_reason": "Genusregel: Feminin, da 'Kobra' im Deutschen feminin ist; Feminin, da кобра (kobra) im Russischen feminin ist."
+  },
+  {
+    "category": "",
+    "latin": "Boa constrictor",
+    "german": "Abgottschlange",
+    "russian": "Обыкновенный удав",
+    "gender_russian": "M",
+    "gender_german": "F",
+    "score": 0.05,
+    "reason": "Reptilien zeigen grundlegende Instinkte und Anpassungsfähigkeit. [Quelle: https://www.reptilien-brauchen-hilfe.de/fakten-ueber-reptilien/]",
+    "gender_reason": "Genusregel: Feminin, da 'Schlange' im Deutschen feminin ist; Maskulin, da удав (udav) im Russischen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Bitis rhinoceros",
+    "german": "Gabunviper",
+    "russian": "Африканские гадюки",
+    "gender_russian": "F",
+    "gender_german": "F",
+    "score": 0.05,
+    "reason": "Reptilien zeigen grundlegende Instinkte und Anpassungsfähigkeit. [Quelle: https://www.reptilien-brauchen-hilfe.de/fakten-ueber-reptilien/]",
+    "gender_reason": "Genusregel: Feminin, da 'Viper' im Deutschen feminin ist; Feminin, da гадюки (gadjuki) im Russischen feminin ist."
+  },
+  {
+    "category": "",
+    "latin": "Eunectes murinus",
+    "german": "Grüne Anakonda",
+    "russian": "Анаконда",
+    "gender_russian": "F",
+    "gender_german": "F",
+    "score": 0.05,
+    "reason": "Reptilien zeigen grundlegende Instinkte und Anpassungsfähigkeit. [Quelle: https://www.reptilien-brauchen-hilfe.de/fakten-ueber-reptilien/]",
+    "gender_reason": "Genusregel: Feminin, da 'Anakonda' im Deutschen feminin ist; Feminin, da анаконда (anakonda) im Russischen feminin ist."
+  },
+  {
+    "category": "",
+    "latin": "Chondropython viridis",
+    "german": "Grüner Baumpython",
+    "russian": "Зелёный питон",
+    "gender_russian": "M",
+    "gender_german": "M",
+    "score": 0.05,
+    "reason": "Reptilien zeigen grundlegende Instinkte und Anpassungsfähigkeit. [Quelle: https://www.reptilien-brauchen-hilfe.de/fakten-ueber-reptilien/]",
+    "gender_reason": "Genusregel: Maskulin, da 'Python' im Deutschen maskulin ist; Maskulin, da питон (piton) im Russischen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Python regius",
+    "german": "Königspython",
+    "russian": "Королевский питон",
+    "gender_russian": "M",
+    "gender_german": "M",
+    "score": 0.05,
+    "reason": "Reptilien zeigen grundlegende Instinkte und Anpassungsfähigkeit. [Quelle: https://www.reptilien-brauchen-hilfe.de/fakten-ueber-reptilien/]",
+    "gender_reason": "Genusregel: Maskulin, da 'Python' im Deutschen maskulin ist; Maskulin, da питон (piton) im Russischen maskulin ist."
+  },
+  {
+    "category": "",
+    "latin": "Malayopython reticulatus",
+    "german": "Netzpython",
+    "russian": "Сетчатый питон",
+    "gender_russian": "M",
+    "gender_german": "M",
+    "score": 0.05,
+    "reason": "Reptilien zeigen grundlegende Instinkte und Anpassungsfähigkeit. [Quelle: https://www.reptilien-brauchen-hilfe.de/fakten-ueber-reptilien/]",
+    "gender_reason": "Genusregel: Maskulin, da 'Python' im Deutschen maskulin ist; Maskulin, da питон (piton) im Russischen maskulin ist."
   },
   {
     "category": "",
@@ -2184,9 +2173,9 @@
     "russian": "",
     "gender_russian": null,
     "gender_german": "F",
-    "score": 0.01,
-    "reason": "Schlangen zeigen wenig soziale Interaktion oder Werkzeuggebrauch. [Quelle: Reptile Cognition, University of Lincoln]",
-    "gender_reason": "Genusregel: Feminin, da 'Schlangen' im Deutschen feminin ist."
+    "score": 0.05,
+    "reason": "Reptilien zeigen grundlegende Instinkte und Anpassungsfähigkeit. [Quelle: https://www.reptilien-brauchen-hilfe.de/fakten-ueber-reptilien/]",
+    "gender_reason": "Genusregel: Feminin, da 'Schlange' im Deutschen feminin ist."
   },
   {
     "category": "",
@@ -2194,10 +2183,10 @@
     "german": "Amphibien",
     "russian": "",
     "gender_russian": null,
-    "gender_german": "N",
+    "gender_german": null,
     "score": 0.01,
-    "reason": "Amphibien zeigen ein geringes Maß an sozialer Interaktion und kognitiven Fähigkeiten. [Quelle: Amphibian Biology, Heatwole and Duellman]",
-    "gender_reason": "Genusregel: Neutrum, da 'Amphibien' im Deutschen neutral ist."
+    "reason": "Amphibien zeigen grundlegende soziale Interaktionen und Lernfähigkeit. [Quelle: https://www.spektrum.de/lexikon/biologie/amphibien/3108]",
+    "gender_reason": "Kein Genus vorhanden, da es sich um eine Kategorie handelt."
   },
   {
     "category": "",
@@ -2286,5 +2275,16 @@
     "score": 0.05,
     "reason": "Amphibien zeigen grundlegende Instinkte und Reaktionen. [Quelle: Allgemeine Amphibienforschung]",
     "gender_reason": "Genusregel: 'Амбистомовые' ist Neutrum Plural im Russischen. 'Molch' ist maskulin im Deutschen."
+  },
+  {
+    "category": "",
+    "latin": "Aspidelaps lubricus",
+    "german": "Südafrikanische Korallenschlange",
+    "russian": "Южноафриканская щитковая кобра",
+    "gender_russian": "F",
+    "gender_german": "F",
+    "score": 0.1,
+    "reason": "Schlangen zeigen ein begrenztes Spektrum an menschenähnlichen Eigenschaften. Ihre kognitiven Fähigkeiten und sozialen Interaktionen sind im Vergleich zu Säugetieren oder Vögeln weniger komplex. [Quelle: Reptilienbiologie]",
+    "gender_reason": "Genusregel: Feminin, da 'Schlange' im Deutschen und 'кобра' im Russischen feminin ist."
   }
 ]

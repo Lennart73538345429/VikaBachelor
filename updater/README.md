@@ -5,15 +5,13 @@
 ## Ausführen
 Hinweis: Das Modul muss immer mit mindestens einer gültigen JSON-Datei ausgeführt werden. Pfade müssen relativ zum Projektverzeichnis angegeben werden.
 
-- `python -m updater.updater updater/input.json`
+- `python -m updater.updater 
 
 ## Build Docker Container
 
 - `docker build -f updater/Dockerfile -t updater . `
 
 ## Ausführen mit Eingabe
-
-- `docker run --rm updater updater/updater/testdata/extractorresultkupper.json`
 
 # Ausführen ohne Eingabe führt zu keinem Ergebnis
 - `docker run --rm updater`
